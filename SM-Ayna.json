@@ -1,0 +1,535 @@
+[
+    {
+        "id": "27ec4394-7640-4dab-abf8-6a48893dfdfe",
+        "title": "Somoy News TV",
+        "image": "https://s3.aynaott.com/storage/fe8839dfe50f3a38a99a2d97143a7cf1",
+        "category": "News"
+    },
+    {
+        "id": "fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
+        "title": "T Sports HD",
+        "image": "https://s3.aynaott.com/storage/6acf955b8f74a89dad49eafa8f870a0e",
+        "category": "Sports"
+    },
+    {
+        "id": "0579659b-2854-40d1-ad6a-69b70641ad17",
+        "title": "Ekhon TV",
+        "image": "https://s3.aynaott.com/storage/fef4be5561598eb5410ec869dd71eeb6",
+        "category": "News"
+    },
+    {
+        "id": "1a7a1365-ae2c-470f-9fb2-25c6e83bb108",
+        "title": "Ekattor TV",
+        "image": "https://s3.aynaott.com/storage/6780a5e5b61dd925a7354700f832d188",
+        "category": "News"
+    },
+    {
+        "id": "8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa",
+        "title": "Jamuna TV",
+        "image": "https://s3.aynaott.com/storage/a4a2034bb25af7facfa1a04b88388330",
+        "category": "News"
+    },
+    {
+        "id": "2b1a4340-2557-4d57-b77c-657bb30ce0c8",
+        "title": "News 24 BD",
+        "image": "https://s3.aynaott.com/storage/00d9b3ab8f8eea12bd6a9c23a9003a46",
+        "category": "News"
+    },
+    {
+        "id": "89247cb9-3c3e-465c-bbc7-d444b0d65424",
+        "title": "Channel 24",
+        "image": "https://s3.aynaott.com/storage/91c24bfa187e05c9d6df591f7a7d53ec",
+        "category": "News"
+    },
+    {
+        "id": "0875f2c8-2043-499b-9472-2872412a6340",
+        "title": "DBC News",
+        "image": "https://s3.aynaott.com/storage/6354a4f3ca8c8615e8c38126efa32a25",
+        "category": "News"
+    },
+    {
+        "id": "a0a29f90-f7c2-4cc2-b0b4-667253585b84",
+        "title": "ATN News",
+        "image": "https://s3.aynaott.com/storage/4cd071b84652e4019591ca985643e600",
+        "category": "News"
+    },
+    {
+        "id": "22f28ae5-8c15-4904-b9f6-70bbd94cbc43",
+        "title": "Independent TV",
+        "image": "https://s3.aynaott.com/storage/f3fa5394db5e1c88ec1a78b64746567b",
+        "category": "News"
+    },
+    {
+        "id": "d07563b0-7580-4cbd-a7c9-e67535c0164a",
+        "title": "SA TV",
+        "image": "https://s3.aynaott.com/storage/67dbe0473587ddd2c0d7fed86d3736ee",
+        "category": "Entertainment"
+    },
+    {
+        "id": "4d629b90-cfc2-4426-9eef-62b879efdb02",
+        "title": "Asian TV",
+        "image": "https://s3.aynaott.com/storage/4ec95e23bb972c418fe3138eb0d0b6dc",
+        "category": "Entertainment"
+    },
+    {
+        "id": "b1808fb2-8892-49dc-965e-d038e5334995",
+        "title": "Gazi TV",
+        "image": "https://s3.aynaott.com/storage/fb59b2336d3b757595a7c1eb1d791eb3",
+        "category": "Entertainment"
+    },
+    {
+        "id": "56f7abf3-1586-4f6d-9df2-1726ccb43779",
+        "title": "Channel 9",
+        "image": "https://s3.aynaott.com/storage/e6e85ba4995916edd8cefbe41c5ae2e4",
+        "category": "Entertainment"
+    },
+    {
+        "id": "9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c",
+        "title": "Duronto TV",
+        "image": "https://s3.aynaott.com/storage/6714b61d6358a9edeaaecf4d4aac9b68",
+        "category": "Entertainment"
+    },
+    {
+        "id": "addb7014-1d2e-41d8-982d-7cafbdc48770",
+        "title": "Bangla TV",
+        "image": "https://s3.aynaott.com/storage/51b5efd83010d5d7e51453f542af0d10",
+        "category": "Entertainment"
+    },
+    {
+        "id": "dd8c50e9-5dad-4cb9-9df8-5763e95281ad",
+        "title": "Desh TV",
+        "image": "https://s3.aynaott.com/storage/0e94adb1f8755a9cdeb520b547bb3fe8",
+        "category": "Entertainment"
+    },
+    {
+        "id": "92890d5c-473a-454c-ad10-2c6c0c91062a",
+        "title": "Boishakhi TV",
+        "image": "https://s3.aynaott.com/storage/a67dcf0a87de9b03d1d74d10ac4e4650",
+        "category": "Entertainment"
+    },
+    {
+        "id": "6662e038-604e-4cdc-87f7-8ec1cdf77a5e",
+        "title": "Mohona TV",
+        "image": "https://s3.aynaott.com/storage/41d391664276e30430ae60e770b6e1da",
+        "category": "Entertainment"
+    },
+    {
+        "id": "e64e1c11-1167-43a1-9e0f-995cbf6f7ff9",
+        "title": "NEXUS TV",
+        "image": "https://s3.aynaott.com/storage/ecf1a9315d9918283f662eac2dbfa616",
+        "category": "Entertainment"
+    },
+    {
+        "id": "f7c89459-37bf-4129-904d-33b0a4c0d590",
+        "title": "Bijoy TV",
+        "image": "https://s3.aynaott.com/storage/d5428a618e6db522143e540d7d4e0c04",
+        "category": "Entertainment"
+    },
+    {
+        "id": "0ac6af3d-acce-4d9d-9ce5-32d4b53f9326",
+        "title": "Global TV",
+        "image": "https://s3.aynaott.com/storage/a2a94959251b31c4c8d50decb7fede91",
+        "category": "Entertainment"
+    },
+    {
+        "id": "c0480a4a-f066-4a20-9f7d-73bbd852260f",
+        "title": "My TV",
+        "image": "https://s3.aynaott.com/storage/2f25a964c9468486b126762dbab3c0e0",
+        "category": "Entertainment"
+    },
+    {
+        "id": "a108c4e9-ccfa-42f2-8f8f-169ded28cca2",
+        "title": "Ananda TV",
+        "image": "https://s3.aynaott.com/storage/794a5088ccac4cb78cb947b62d6adb90",
+        "category": "Entertainment"
+    },
+    {
+        "id": "a0e6e9b6-b20b-4f54-82d6-881bef762cfd",
+        "title": "BTV NATIONAL HD",
+        "image": "https://s3.aynaott.com/storage/d094e635dc37aa8c271ecf5f66b4ae8d",
+        "category": "Government"
+    },
+    {
+        "id": "888a4c91-241e-47de-b9e5-11495d6cc596",
+        "title": "BTV World",
+        "image": "https://s3.aynaott.com/storage/a57c55dfde33b51462b07d699c5a1024",
+        "category": "Government"
+    },
+    {
+        "id": "7c5fee98-96e2-43df-95f4-ae8ded8e9efe",
+        "title": "BTV CTG",
+        "image": "https://s3.aynaott.com/storage/d28763158cf7d8d29750f587aa59bc72",
+        "category": "Government"
+    },
+    {
+        "id": "c6cbbb28-702d-4788-a59d-569decd67367",
+        "title": "BTV News",
+        "image": "https://s3.aynaott.com/storage/e4f897aa0817cde385b4de6a1dca318d",
+        "category": "News"
+    },
+    {
+        "id": "c7b00628-bc52-4609-be0a-ad02a16e4c04",
+        "title": "Drama 24",
+        "image": "https://s3.aynaott.com/storage/b621e259fe72d59b5dde24254f8326f9",
+        "category": "Drama"
+    },
+    {
+        "id": "ed1ad924-f9f2-4302-97df-987bffb2b32e",
+        "title": "Aakaash Bangla TV",
+        "image": "https://s3.aynaott.com/storage/d7ab8cda7556673d5a672b804f6bf0e5",
+        "category": "Entertainment"
+    },
+    {
+        "id": "3aa4d27d-91e1-4afe-a6b5-de35beefae4f",
+        "title": "Rupshi Bangla",
+        "image": "https://s3.aynaott.com/storage/0288edaa378126f859f0e56ccdaa66fb",
+        "category": "Music"
+    },
+    {
+        "id": "75412270-ce20-4376-8e7f-21fc76f84ed4",
+        "title": "Sangeet Bangla",
+        "image": "https://s3.aynaott.com/storage/674989d71177b52b37eac9c2ee85f9ec",
+        "category": "Music"
+    },
+    {
+        "id": "67d12ffa-059f-4d79-a4e5-b36104d0af06",
+        "title": "Dhoom Music Bangla",
+        "image": "https://s3.aynaott.com/storage/d987cf0a74e96e6ae6cffd1782db799d",
+        "category": "Music"
+    },
+    {
+        "id": "a3d48c46-7902-45e2-abf9-0fab60c4d117",
+        "title": "A sports",
+        "image": "https://s3.aynaott.com/storage/60d65f9e7466f6f7f4fe997714eec4d2",
+        "category": "Sports"
+    },
+    
+    ---
+    
+    ## 🌍 অন্যান্য চ্যানেলসমূহ
+    
+    {
+        "id": "b04b3742-e2a1-4d56-8b3e-2b2154766ada",
+        "title": "Sony TEN 1 HD",
+        "image": "https://s3.aynaott.com/storage/db15ac0550fcc56522286526eb25e6b6",
+        "category": "Sports"
+    },
+    {
+        "id": "594809c8-574e-46cf-a3e5-26e0bec1fe33",
+        "title": "Star Sports Select 1",
+        "image": "https://s3.aynaott.com/storage/a89e9bcb33eae7f90f7ac3b66c579d31",
+        "category": "Sports"
+    },
+    {
+        "id": "6cce2b86-f371-4184-b288-988de0607926",
+        "title": "Star Sports Select 2 HD",
+        "image": "https://s3.aynaott.com/storage/2b8db3b83813f0bfb2d057f3ea2f67b7",
+        "category": "Sports"
+    },
+    {
+        "id": "f064e069-8861-43d5-ac79-828b029a50a1",
+        "title": "Star Sports 1 HD",
+        "image": "https://s3.aynaott.com/storage/fefc64ccde7f5da1aecc62dd5f96d715",
+        "category": "Sports"
+    },
+    {
+        "id": "3ac46078-2bf0-4998-a021-37b459e09fba",
+        "title": "STAR SPORTS 2 HD",
+        "image": "https://s3.aynaott.com/storage/71cdee4b5eaae44619448c509bc39826",
+        "category": "Sports"
+    },
+    {
+        "id": "abfabaee-3898-4279-8645-3da5b0232867",
+        "title": "Willow TV",
+        "image": "https://s3.aynaott.com/storage/a33a22f20cfb648c1ced2059350f068f",
+        "category": "Sports"
+    },
+    {
+        "id": "eacf6c3f-0773-4bc3-a03a-cfee09f10348",
+        "title": "PTV Sports",
+        "image": "https://s3.aynaott.com/storage/be619a233ef011d52655a5fabbe14b85",
+        "category": "Sports"
+    },
+    {
+        "id": "1bbda610-2fcb-4dac-ba03-714a2591a8c4",
+        "title": "FANCODE",
+        "image": "https://s3.aynaott.com/storage/52dbc51c3ca44f03d893dcbd3dc11f7e",
+        "category": "Sports"
+    },
+    {
+        "id": "9c354ad6-3efc-4e4d-9cd8-3584bcc9c315",
+        "title": "PSN 1 Sports",
+        "image": "https://s3.aynaott.com/storage/adb5fa6c56c4a9a596d52b2f2625fe5d",
+        "category": "Sports"
+    },
+    {
+        "id": "9e6373ed-e25b-49ef-9a76-35b144535f75",
+        "title": "PSN 2 Sports ",
+        "image": "https://s3.aynaott.com/storage/d575b1ad3c93e5edeb007d2defe9b9af",
+        "category": "Sports"
+    },
+    {
+        "id": "02a7f557-a6e7-4254-b9dd-f8c063ba97c5",
+        "title": "PSN 4 Sports",
+        "image": "https://s3.aynaott.com/storage/bb9434b4240b1a0f059f79a624c35541",
+        "category": "Sports"
+    },
+    {
+        "id": "0790e6bd-458c-4f9d-86d9-1c554383b623",
+        "title": "PSN 5 Sports",
+        "image": "https://s3.aynaott.com/storage/4ef36696fb89eda28a75cd57545043e9",
+        "category": "Sports"
+    },
+    {
+        "id": "a51ed57c-a9cb-4dcb-9160-eb0726835c45",
+        "title": "Dubai Sports 1",
+        "image": "https://s3.aynaott.com/storage/ad397cc0a98cbbff109d271a5739326e",
+        "category": "Sports"
+    },
+    {
+        "id": "9c8e02cf-4765-4156-8ecf-999935c0115d",
+        "title": "Dubai Sports 2",
+        "image": "https://s3.aynaott.com/storage/590099147b31fa53bb5dd3357e702b38",
+        "category": "Sports"
+    },
+    {
+        "id": "e897cca2-8086-42cc-a492-e1f3e4d9aed9",
+        "title": "Dubai Sports 3",
+        "image": "https://s3.aynaott.com/storage/bd58be62261091b44c05fbb9a4404b51",
+        "category": "Sports"
+    },
+    {
+        "id": "719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb",
+        "title": "Fox Sports 1",
+        "image": "https://s3.aynaott.com/storage/d80b55a28ba108392cdea07318b4dc98",
+        "category": "Sports"
+    },
+    {
+        "id": "93c7e57d-e666-488a-aec9-a339a7e5eb74",
+        "title": "Fox Sports 2",
+        "image": "https://s3.aynaott.com/storage/e8870daa8a5a29c2af3919f487f2ae56",
+        "category": "Sports"
+    },
+    {
+        "id": "79ce27a8-bbfa-4661-a6ff-e6006e1510a3",
+        "title": "Sports First TV",
+        "image": "https://s3.aynaott.com/storage/6b7bb1cff80f2de93da9f9590aa5a949",
+        "category": "Sports"
+    },
+    {
+        "id": "9f230f21-7a07-4b80-b845-77f9327ddad3",
+        "title": "NBC Sports",
+        "image": "https://s3.aynaott.com/storage/bd6e03c92149e8ba6f227c34cc573446",
+        "category": "Sports"
+    },
+    {
+        "id": "490e6a84-17e2-42bb-8725-66af0c067239",
+        "title": "Bein Sports",
+        "image": "https://s3.aynaott.com/storage/b9510dc3aa08be1ef6612966be05d7c0",
+        "category": "Sports"
+    },
+    {
+        "id": "e9c383b6-72cd-4825-b815-b388e8a7a5d9",
+        "title": "Sharjah Sports TV",
+        "image": "https://s3.aynaott.com/storage/89246facb1f8abb2957b0b464d5141e9",
+        "category": "Sports"
+    },
+    {
+        "id": "d49b0b2b-0132-4fd8-be49-88145477ee1d",
+        "title": "Sports Grid",
+        "image": "https://s3.aynaott.com/storage/cd063bf4bb66b0907fda16fc97d7917e",
+        "category": "Sports"
+    },
+    {
+        "id": "a7c5f56e-52ea-47ca-8b0a-27bf6148c667",
+        "title": "Abu Dhabi Sports 1",
+        "image": "https://s3.aynaott.com/storage/a5923f618d277641dc5c9df7d5aae9e9",
+        "category": "Sports"
+    },
+    {
+        "id": "cdc583dd-8031-4b7b-af12-34009af38744",
+        "title": "Abu Dhabi Sports 2",
+        "image": "https://s3.aynaott.com/storage/7097899af6c9350b3f8343329cdd83d9",
+        "category": "Sports"
+    },
+    {
+        "id": "8cf7e03a-c0c4-4373-8b4f-d2f0c809472c",
+        "title": "Goal TV",
+        "image": "https://s3.aynaott.com/storage/7c3312e69c7416379df48a26c137f8ce",
+        "category": "Sports"
+    },
+    {
+        "id": "576e5655-01d2-442f-b311-7c826d48fb7d",
+        "title": "TSN 1",
+        "image": "https://s3.aynaott.com/storage/787b587a48eb2beb7dae4de0b68a4385",
+        "category": "Sports"
+    },
+    {
+        "id": "32d28b2c-aded-481d-833b-cee57cecfc93",
+        "title": "TSN 2",
+        "image": "https://s3.aynaott.com/storage/5273448b22243bf4e748058522275089",
+        "category": "Sports"
+    },
+    {
+        "id": "9d3a1097-c171-4aee-99ad-e76c0c4a4c75",
+        "title": "TSN 3",
+        "image": "https://s3.aynaott.com/storage/3d887fb5d855a426fa3035fef458ad98",
+        "category": "Sports"
+    },
+    {
+        "id": "538b24c3-9493-44d5-be7c-482b51734f2c",
+        "title": "Xtrem Sports",
+        "image": "https://s3.aynaott.com/storage/e6704a28f795d42a91cbe94d1aa7b5ae",
+        "category": "Sports"
+    },
+    {
+        "id": "9954b40b-67df-4cd9-9303-e02d713ad0a0",
+        "title": "Golf Channel",
+        "image": "https://s3.aynaott.com/storage/02be5297186fd166349eca3a7d8d1f29",
+        "category": "Sports"
+    },
+    {
+        "id": "d2152bbb-64e0-4822-826b-60853ca1d056",
+        "title": "WOF 1",
+        "image": "https://s3.aynaott.com/storage/23a783f769766beffc71604db1c165a6",
+        "category": "Sports"
+    },
+    {
+        "id": "129b3bdc-878b-4f63-a722-afd53f9b3712",
+        "title": "Sports TV",
+        "image": "https://s3.aynaott.com/storage/438d6cb15a2304e5eba56dac77545af3",
+        "category": "Sports"
+    },
+    {
+        "id": "94069990-c00c-401a-af81-169ed39d1cb4",
+        "title": "NFL Network",
+        "image": "https://s3.aynaott.com/storage/3329829a8f8a14c2e4b1042033f3134e",
+        "category": "Sports"
+    },
+    {
+        "id": "6e70514c-5f8e-483b-8c97-3c971b558a74",
+        "title": "Talk Sport",
+        "image": "https://s3.aynaott.com/storage/a05e44127b5c0a71bb4909d597f8f586",
+        "category": "Sports"
+    },
+    {
+        "id": "3167764d-9154-4dda-a0cc-713ca5dee5d3",
+        "title": "KTV Sport Plus",
+        "image": "https://s3.aynaott.com/storage/70df225661f1445a7dd19d7987aa7f56",
+        "category": "Sports"
+    },
+    {
+        "id": "d774d6a3-906e-42b4-b21a-9090b533a1b1",
+        "title": "Marquee Sports Network",
+        "image": "https://s3.aynaott.com/storage/794fe737ad895ce98cd80765da28e82b",
+        "category": "Sports"
+    },
+    {
+        "id": "0e1fb643-581b-40c5-bb62-1277a6a75ebf",
+        "title": "More Then Sports TV",
+        "image": "https://s3.aynaott.com/storage/233bf5ff420928b8cda718a0d861d6fa",
+        "category": "Sports"
+    },
+    {
+        "id": "3b238911-d385-406a-b936-07550f30a4f3",
+        "title": "DD Sports",
+        "image": "https://s3.aynaott.com/storage/623fa183a64ba7c23157fd82a62963df",
+        "category": "Sports"
+    },
+    {
+        "id": "6d75259a-cecb-4905-8146-358ec6938c62",
+        "title": "Bahrain Sports 1",
+        "image": "https://s3.aynaott.com/storage/0543b27103dfb57786e24dbb08ed4f00",
+        "category": "Sports"
+    },
+    {
+        "id": "71e96376-d08c-4314-b2d6-449ff40a90b0",
+        "title": "Bahrain Sports 2",
+        "image": "https://s3.aynaott.com/storage/4ca09bde36b8c55218ff8a9d9dfeabc0",
+        "category": "Sports"
+    },
+    {
+        "id": "dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1",
+        "title": "Khushboo",
+        "image": "https://s3.aynaott.com/storage/6414c33a4899b3c456bb44115634a627",
+        "category": "Entertainment"
+    },
+    {
+        "id": "7141c05b-97cd-4dd1-9584-423c7a5ce13d",
+        "title": "Republic Bangla",
+        "image": "https://s3.aynaott.com/storage/b4ffda0faa5d52bcfc51226da439af93",
+        "category": "News"
+    },
+    {
+        "id": "4b351549-878b-4f99-88ed-a50e7a4aa84b",
+        "title": "TV9 Bangla",
+        "image": "https://s3.aynaott.com/storage/4b0670c6bd4bf9308f23c03b287cf2fe",
+        "category": "News"
+    },
+    {
+        "id": "71b599fa-1284-46c3-a2de-9eaab38d74de",
+        "title": "Zee 24 Ghanta",
+        "image": "https://s3.aynaott.com/storage/003943daca6e86fc4166c87fa5f5eb84",
+        "category": "News"
+    },
+    {
+        "id": "262789f8-92af-4738-986c-c5deafeef997",
+        "title": "kolkata TV",
+        "image": "https://s3.aynaott.com/storage/56ca1851cf0fedfd9083b6168f3f6c58",
+        "category": "Entertainment"
+    },
+    {
+        "id": "f7ef6919-d8e1-42da-8f34-ddd3364c27c1",
+        "title": "Assam Talks",
+        "image": "https://s3.aynaott.com/storage/3cf8e81c47e02586b2f7602fcff757ee",
+        "category": "News"
+    },
+    {
+        "id": "8dc64f21-7dc8-4a41-a583-ddec9f112aeb",
+        "title": "R Plus",
+        "image": "https://s3.aynaott.com/storage/e3783824ffedcbc0e5e53e4985108b49",
+        "category": "Entertainment"
+    },
+    {
+        "id": "28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77",
+        "title": "R Plus Gold",
+        "image": "https://s3.aynaott.com/storage/5a7016efb4f06bf3be1dd94a4b651e29",
+        "category": "Entertainment"
+    },
+    {
+        "id": "c8080032-034e-4f04-b1ee-0847a6e62a41",
+        "title": "News Time Bangla",
+        "image": "https://s3.aynaott.com/storage/f43527959f07cea6af92a352cce0517c",
+        "category": "News"
+    },
+    {
+        "id": "791d2a93-1736-4114-852e-2331fa441799",
+        "title": "Rongeen TV",
+        "image": "https://s3.aynaott.com/storage/41fa924821058b6a79379ee4688ae577",
+        "category": "Entertainment"
+    },
+    {
+        "id": "8df44874-5511-4c78-a854-8ab6dd6861e5",
+        "title": "DD Bangla",
+        "image": "https://s3.aynaott.com/storage/54c6e662524565c83e499e832521ecf1",
+        "category": "Government"
+    },
+    {
+        "id": "1092effd-ec5f-4842-a9eb-09db84a23415",
+        "title": "Enter 10 Bangla",
+        "image": "https://s3.aynaott.com/storage/778308d5e86283baa168b8197c5d4909",
+        "category": "Entertainment"
+    },
+    {
+        "id": "890a1a92-0602-4c2d-93ca-a2c43e7aec54",
+        "title": "Zee Bangla International",
+        "image": "https://s3.aynaott.com/storage/dcac607da11da5fc2f3fd5bdef57678f",
+        "category": "Entertainment"
+    },
+    {
+        "id": "f07177e9-d1a9-48b4-8e2e-1718d098bbfb",
+        "title": "Star Jalsha HD",
+        "image": "https://s3.aynaott.com/storage/98f69743bd6be900b1c03a548bd1fa9c",
+        "category": "Entertainment"
+    }
+]
