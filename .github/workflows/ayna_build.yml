@@ -1,0 +1,46 @@
+name: 🔁 AynaOTT Auto Generate (ZIP Extract + Secure)
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # প্রতি ৩০ মিনিটে অটো রান হবে
+  workflow_dispatch:          # ম্যানুয়াল রানও করতে পারবেন
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📦 Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: 📥 Install Dependencies
+        run: |
+          pip install requests pyzipper
+
+      - name: 🔑 Load Secrets (ZIP Password + Ayna Token)
+        run: |
+          echo "ZIP_PASSWORD=${{ secrets.ZIP_PASSWORD }}" >> $GITHUB_ENV
+          echo "AYNA_TOKEN=${{ secrets.AYNA_TOKEN }}" >> $GITHUB_ENV
+
+      - name: 🔐 Unzip main.zip (AES-256 Password Protected)
+        run: |
+          python unzip.py
+
+      - name: ▶ Run AynaPlayer Script
+        run: |
+          python AynaPlayer.py
+
+      - name: 🧹 Remove Extracted Folder
+        run: |
+          rm -rf extracted
+
+      - name: 📤 Commit & Push Files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add AynaOTT.m3u AynaOTT.json || true
+          git commit -m "Auto update AynaOTT playlist & JSON" || echo "No changes to commit"
+          git push
