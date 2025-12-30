@@ -1,10 +1,10 @@
 import pyzipper
 import os
 
-ZIP_FILE = "main.zip"
+ZIP_FILE = "sm_ayna.zip"      # 🔁 main.zip → sm_ayna.zip
 EXTRACT_FOLDER = "extracted"
 
-def unzip_main():
+def decrypt_zip():
     password = os.getenv("ZIP_PASSWORD")
     if not password:
         raise ValueError("❌ ZIP_PASSWORD secret not found!")
@@ -30,7 +30,7 @@ def unzip_main():
             with open(src, "rb") as s, open(dst, "wb") as d:
                 d.write(s.read())
 
-    print("🎉 Unzip done successfully!")
+    print("🎉 Decrypt & unzip done successfully!")
 
 if __name__ == "__main__":
-    unzip_main()
+    decrypt_zip()
