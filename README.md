@@ -25,7 +25,7 @@
 
 Enjoy 😊
 
-**🙂 Use Ayna Json 🙂**
+**🙂 Use AynaOTT Json 🙂**
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.json)
 
  
