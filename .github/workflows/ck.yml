@@ -1,9 +1,7 @@
-name: Auto Update M3U
+name: Manual Update M3U
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -32,5 +30,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add output_sorted.m3u
-          git commit -m "Auto update sorted m3u" || echo "No changes"
+          git commit -m "Manual update sorted m3u" || echo "No changes"
           git push
