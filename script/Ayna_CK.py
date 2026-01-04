@@ -3,7 +3,7 @@ import re
 from collections import defaultdict
 
 # 🔗 GitHub RAW m3u URL
-M3U_URL = "https://raw.githubusercontent.com/USERNAME/REPO/main/input.m3u"
+M3U_URL = "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/script/Aynaott2.m3u"
 
 # 📁 Output file
 OUTPUT_FILE = "output_sorted.m3u"
