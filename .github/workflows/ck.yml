@@ -3,7 +3,7 @@ name: Auto Update M3U
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # প্রতি 30 মিনিট
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -25,12 +25,12 @@ jobs:
         run: pip install requests
 
       - name: Run Ayna_CK script
-        run: python "python script/Ayna_CK.py"
+        run: python script/Ayna_CK.py
 
-      - name: Commit & Push changes
+      - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add .
+          git add output_sorted.m3u
           git commit -m "Auto update sorted m3u" || echo "No changes"
           git push
