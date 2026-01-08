@@ -29,7 +29,7 @@ Enjoy 😊
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.json)
 
  
-# 🚬 Credits
+# 🛡️ Credits
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=00000000&width=400&lines=Made+By+Monirul+Islam)](https://git.io/typing-svg)
 
