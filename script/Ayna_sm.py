@@ -12,27 +12,33 @@ r.raise_for_status()
 
 lines = r.text.splitlines()
 
-clean_lines = []
+clean = []
 extm3u_added = False
 
 for line in lines:
     line = line.strip()
 
-    # শুধু একবার #EXTM3U রাখবে
-    if line == "#EXTM3U" and not extm3u_added:
-        clean_lines.append("#EXTM3U")
-        extm3u_added = True
+    # Keep only one EXTM3U
+    if line == "#EXTM3U":
+        if not extm3u_added:
+            clean.append("#EXTM3U")
+            extm3u_added = True
         continue
 
-    # অন্য সব comment বাদ
+    # KEEP EXTINF (title, logo, group)
+    if line.startswith("#EXTINF"):
+        clean.append(line)
+        continue
+
+    # REMOVE other comments
     if line.startswith("#"):
         continue
 
-    # channel / url lines রাখবে
+    # KEEP stream URLs
     if line:
-        clean_lines.append(line)
+        clean.append(line)
 
 with open(OUTPUT, "w", encoding="utf-8") as f:
-    f.write("\n".join(clean_lines))
+    f.write("\n".join(clean))
 
-print("Clean playlist saved:", OUTPUT)
+print("Playlist updated:", OUTPUT)
