@@ -2,7 +2,7 @@ name: Auto Update Playlist
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # প্রতি 6 ঘণ্টা
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,26 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
+      - run: pip install requests
 
-      - name: Run playlist updater
+      - name: Run updater
         env:
           M3U_URL: ${{ secrets.M3U_URL }}
-        run: python script/Ayna-sm.py
+        run: python script/Ayna_sm.py
 
-      - name: Commit and push changes
+      - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add Ayna-cl.m3u
-          git commit -m "Auto update playlist" || echo "No changes to commit"
+          git commit -m "Auto update playlist" || echo "No changes"
           git push
