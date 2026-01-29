@@ -1,8 +1,8 @@
-name: 🔁 AYNA OTT Playlist
+name: 🔁 Update AYNA OTT Playlist
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */2 * * *"   # প্রতি ২ ঘন্টা
   workflow_dispatch:
 
 permissions:
