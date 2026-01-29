@@ -2,7 +2,7 @@ name: 🔁 AYNA OTT Playlist
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # প্রতি ২ ঘন্টা
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -48,5 +48,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add AynaOTT.m3u AynaOTT.json
-          git commit -m "🔄 Auto update Ayna OTT (2-hourly)" || echo "No changes"
+          git commit -m "🔄 Auto update Ayna OTT" || echo "No changes"
           git push
