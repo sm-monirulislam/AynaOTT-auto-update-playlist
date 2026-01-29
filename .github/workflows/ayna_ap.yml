@@ -1,1 +1,52 @@
+name: 🔁 Update AYNA OTT Playlist
 
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # প্রতি ২ ঘন্টা
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 📥 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pyzipper
+
+      - name: 🔑 Load Secrets (ZIP Password + Ayna Token)
+        run: |
+          echo "ZIP_PASSWORD=${{ secrets.ZIP_PASSWORD }}" >> $GITHUB_ENV
+          echo "AYNA_TOKEN=${{ secrets.AYNA_TOKEN }}" >> $GITHUB_ENV
+
+      - name: 🔐 Unzip sm_ayna_main.zip (AES-256 Password Protected)
+        run: |
+          python decrypt.py
+
+      - name: ▶️ Run AynaPlayer Script
+        run: |
+          python sm-aynaott.py
+
+      - name: 🧹 Remove Extracted Folder
+        run: |
+          rm -rf extracted
+
+      - name: 💾 Commit & Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add AynaOTT.m3u AynaOTT.json
+          git commit -m "🔄 Auto update Ayna OTT (2-hourly)" || echo "No changes"
+          git push
