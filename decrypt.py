@@ -1,36 +1,47 @@
 import pyzipper
 import os
 
-ZIP_FILE = "sm_ayna.zip"      # 🔁 main.zip → sm_ayna.zip
-EXTRACT_FOLDER = "extracted"
+ZIP_FILES = [
+    "sm_ayna.zip",
+    "sm_ayna_main.zip"
+]
 
-def decrypt_zip():
+EXTRACT_BASE = "extracted"
+
+def decrypt_zip(zip_file):
     password = os.getenv("ZIP_PASSWORD")
     if not password:
         raise ValueError("❌ ZIP_PASSWORD secret not found!")
 
     password_bytes = password.encode("utf-8")
 
-    print("🔐 Extracting ZIP...")
+    extract_folder = os.path.join(EXTRACT_BASE, zip_file.replace(".zip", ""))
 
-    if not os.path.exists(EXTRACT_FOLDER):
-        os.makedirs(EXTRACT_FOLDER)
+    print(f"🔐 Extracting {zip_file} ...")
 
-    with pyzipper.AESZipFile(ZIP_FILE) as zf:
+    os.makedirs(extract_folder, exist_ok=True)
+
+    with pyzipper.AESZipFile(zip_file) as zf:
         zf.pwd = password_bytes
-        zf.extractall(EXTRACT_FOLDER)
+        zf.extractall(extract_folder)
 
-    print("📂 Extracted to:", EXTRACT_FOLDER)
+    print(f"📂 Extracted to: {extract_folder}")
 
     # Extracted ফাইলগুলো root folder এ কপি
-    for f in os.listdir(EXTRACT_FOLDER):
-        src = os.path.join(EXTRACT_FOLDER, f)
+    for f in os.listdir(extract_folder):
+        src = os.path.join(extract_folder, f)
         dst = os.path.join(".", f)
+
         if os.path.isfile(src):
             with open(src, "rb") as s, open(dst, "wb") as d:
                 d.write(s.read())
 
-    print("🎉 Decrypt & unzip done successfully!")
+    print(f"✅ {zip_file} done\n")
+
 
 if __name__ == "__main__":
-    decrypt_zip()
+    for zip_file in ZIP_FILES:
+        if os.path.exists(zip_file):
+            decrypt_zip(zip_file)
+        else:
+            print(f"⚠️ File not found: {zip_file}")
