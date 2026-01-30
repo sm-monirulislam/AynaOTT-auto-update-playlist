@@ -1,9 +1,7 @@
 name: 🔁 AynaOTT Auto Update Playlist
 
 on:
-  workflow_dispatch:        # ম্যানুয়াল রান
-  schedule:
-    - cron: "0 */2 * * *"   # প্রতি ২ ঘন্টা পরপর অটো রান
+  workflow_dispatch:        # ✅ শুধু ম্যানুয়াল রান
 
 permissions:
   contents: write
