@@ -1,7 +1,9 @@
-name: 🔁 AynaOTT Auto Update Playlist
+name: AynaOTT Auto Update Playlist
 
 on:
-  workflow_dispatch:        # ✅ শুধু ম্যানুয়াল রান
+  schedule:
+    - cron: "0 * * * *"   # ⏱️ প্রতি ১ ঘন্টা
+  workflow_dispatch:     # ▶ ম্যানুয়াল রান
 
 permissions:
   contents: write
@@ -19,10 +21,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests pyzipper
 
-      - name: 🔑 Load Secrets (ZIP Password + Ayna Token)
+      - name: 🔑 Load Secrets (ZIP Password + Auth API)
         run: |
           echo "ZIP_PASSWORD=${{ secrets.ZIP_PASSWORD }}" >> $GITHUB_ENV
-          echo "AYNA_TOKEN=${{ secrets.AYNA_TOKEN }}" >> $GITHUB_ENV
+          echo "AYNA_AUTH_API=${{ secrets.AYNA_AUTH_API }}" >> $GITHUB_ENV
 
       - name: 🔐 Unzip sm_ayna.zip (AES-256 Password Protected)
         run: |
