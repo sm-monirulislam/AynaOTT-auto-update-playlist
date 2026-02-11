@@ -2,8 +2,8 @@ name: AynaOTT Auto Update Playlist
 
 on:
   schedule:
-    - cron: "0 * * * *"   # ⏱️ প্রতি ১ ঘন্টা
-  workflow_dispatch:     # ▶ ম্যানুয়াল রান
+    - cron: "*/30 * * * *"   # ⏱️ প্রতি ৩০ মিনিট
+  workflow_dispatch:        # ▶ ম্যানুয়াল রান
 
 permissions:
   contents: write
@@ -15,6 +15,11 @@ jobs:
     steps:
       - name: 📦 Checkout Repo
         uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
       - name: 📥 Install Dependencies
         run: |
