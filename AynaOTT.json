@@ -3,195 +3,195 @@
     "name": "AynaOTT Live Channels",
     "owner": "Monirul Islam",
     "channels_amount": 272,
-    "last_update": "2026-02-24 13:32:54",
+    "last_update": "2026-02-24 14:54:01",
     "response": [
         {
             "id": "888a4c91-241e-47de-b9e5-11495d6cc596",
             "title": "BTV World",
             "logo": "https://s3.aynaott.com/storage/b30147b97d86754e4b97fc2989628391",
-            "url": "https://tvsen6.aynascope.net/btv_world/index.m3u8?e=1771925575&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9d579246b34919c3a672e3fd3ca45408",
+            "url": "https://tvsen6.aynascope.net/btv_world/index.m3u8?e=1771930443&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0d240aa94229948b563d1e207a513855",
             "category": "Bangla"
         },
         {
             "id": "7c5fee98-96e2-43df-95f4-ae8ded8e9efe",
             "title": "BTV CTG",
             "logo": "https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc",
-            "url": "https://tvsen6.aynascope.net/btvctg/index.m3u8?e=1771925576&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6df31af0b464fba2ce70d5521518f451",
+            "url": "https://tvsen6.aynascope.net/btvctg/index.m3u8?e=1771930444&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=19419fe68f5d6e20cc9f51372b251084",
             "category": "Bangla"
         },
         {
             "id": "d0828e90-a8b9-4d2b-9bf7-ab996578147a",
             "title": "Peace TV Bangla HD",
             "logo": "https://s3.aynaott.com/storage/e33b23f7dc3d39008d672952c33069d4",
-            "url": "https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1771925577&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=580caecb0a4b638acf59d91e645a90b9",
+            "url": "https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1771930444&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6e5853d56ab11514e9532dbdb657b235",
             "category": "Bangla"
         },
         {
             "id": "9fe49249-fae7-402d-b5b1-6710691bbcf6",
             "title": "TIME TV USA",
             "logo": "https://s3.aynaott.com/storage/111bfd01fb43770e925ca9cf16663f56",
-            "url": "https://tvsen7.aynascope.net/timetv/index.m3u8?e=1771925577&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b80a965b753f8575405dc210bd5c5ce9",
+            "url": "https://tvsen7.aynascope.net/timetv/index.m3u8?e=1771930445&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=74452ceb532c068ccef56fcc140e0b53",
             "category": "Bangla"
         },
         {
             "id": "20714fd4-dc3c-46d6-924f-3038d61f027c",
             "title": "Channel I",
             "logo": "https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204",
-            "url": "https://tvsen6.aynascope.net/channeli/index.m3u8?e=1771925579&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5ef0e03867d9c75582c4de146837ba6f",
+            "url": "https://tvsen6.aynascope.net/channeli/index.m3u8?e=1771930446&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1f617454367ed82daa2371ba0892be4b",
             "category": "Bangla"
         },
         {
             "id": "1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d",
             "title": "NTV",
             "logo": "https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7",
-            "url": "https://tvsen5.aynascope.net/ntvbd/index.m3u8?e=1771925579&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2ae73a0f073ce169599778d24f20d340",
+            "url": "https://tvsen5.aynascope.net/ntvbd/index.m3u8?e=1771930447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4b393a4502b4a925445954deec9bfe23",
             "category": "Bangla"
         },
         {
             "id": "21e75798-3b6a-4214-9d93-b3fecaa4e700",
             "title": "Bangla Vision",
             "logo": "https://s3.aynaott.com/storage/788ab3e49b2aa6af247722762ed6e72a",
-            "url": "https://tvsen5.aynascope.net/banglavision/index.m3u8?e=1771925580&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8dfb023a154c24204249293e072553a3",
+            "url": "https://tvsen5.aynascope.net/banglavision/index.m3u8?e=1771930448&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=daeb1686323b1d771c4432cbe8c12ef9",
             "category": "Bangla"
         },
         {
             "id": "70e97db9-5a9e-4642-874e-af3d30ba9925",
             "title": "RTV",
             "logo": "https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d",
-            "url": "https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1771925581&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3ea2625c94c87abd5f041352c85ab123",
+            "url": "https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1771930448&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=785b4bff1c1906a36783162c4dd1126c",
             "category": "Bangla"
         },
         {
             "id": "9046949b-9847-4b5d-96c1-e82b0734444b",
             "title": "ATN Bangla",
             "logo": "https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913",
-            "url": "https://tvsen5.aynascope.net/atnbangla/index.m3u8?e=1771925582&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c81f2b41d99d485596b0614001eb12f1",
+            "url": "https://tvsen5.aynascope.net/atnbangla/index.m3u8?e=1771930449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6d1b443497d47b83cf9d72cb1024c7f3",
             "category": "Bangla"
         },
         {
             "id": "b3f0df76-15ba-4ede-a7de-bbaaf23a630e",
             "title": "ETV",
             "logo": "https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8",
-            "url": "https://tvsen6.aynascope.net/etv/index.m3u8?e=1771925582&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5f0bb84792c9b17844d56a61db76c12d",
+            "url": "https://tvsen6.aynascope.net/etv/index.m3u8?e=1771930450&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=048a1fb299ae819e84f86e11d29cb1d4",
             "category": "Bangla"
         },
         {
             "id": "9a94b22f-c4a4-4150-8eb9-129d0ddeb934",
             "title": "Maasranga TV",
             "logo": "https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",
-            "url": "https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1771925583&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ae961f783fa42c8f0fe75a09fb1a1844",
+            "url": "https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1771930450&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbc72458d848510f9ab962af1a3792f7",
             "category": "Bangla"
         },
         {
             "id": "0be12af9-e713-4c65-b4ed-b735793a0418",
             "title": "Deepto TV",
             "logo": "https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c",
-            "url": "https://tvsen5.aynascope.net/DeeptoTVHD/index.m3u8?e=1771925584&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b6b6daaaaa8b98cf7b9a146a3b0dfb35",
+            "url": "https://tvsen5.aynascope.net/DeeptoTVHD/index.m3u8?e=1771930451&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0bd90ec88882ca464e8756b5f6f10279",
             "category": "Bangla"
         },
         {
             "id": "b1808fb2-8892-49dc-965e-d038e5334995",
             "title": "Gazi TV",
             "logo": "https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",
-            "url": "https://tvsen5.aynascope.net/Ravc7gPCZpxk/index.m3u8?e=1771925584&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=39a387a92cc33c193175618330734cba",
+            "url": "https://tvsen5.aynascope.net/Ravc7gPCZpxk/index.m3u8?e=1771930452&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4f772521105252122784edae5d29e029",
             "category": "Bangla"
         },
         {
             "id": "dd8c50e9-5dad-4cb9-9df8-5763e95281ad",
             "title": "Desh TV",
             "logo": "https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb",
-            "url": "https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1771925585&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6018f95b8536c2cf4547b28576d72b40",
+            "url": "https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1771930452&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ff8fbbe042cbaf1874b5f667b49172de",
             "category": "Bangla"
         },
         {
             "id": "92890d5c-473a-454c-ad10-2c6c0c91062a",
             "title": "Boishakhi TV",
             "logo": "https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0",
-            "url": "https://tvsen6.aynascope.net/boishakhitv/index.m3u8?e=1771925586&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4fb721ef1e50f88cabc9bdc8528cd37a",
+            "url": "https://tvsen6.aynascope.net/boishakhitv/index.m3u8?e=1771930453&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=20c136a4556935b0761b2f560d361b93",
             "category": "Bangla"
         },
         {
             "id": "56f7abf3-1586-4f6d-9df2-1726ccb43779",
             "title": "Channel 9",
             "logo": "https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43",
-            "url": "https://tvsen6.aynascope.net/channel9/index.m3u8?e=1771925587&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9166a46dab9f2bc46057c1a2e53694fb",
+            "url": "https://tvsen6.aynascope.net/channel9/index.m3u8?e=1771930454&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=142b12c7dad033c9f403687b4cc21b74",
             "category": "Bangla"
         },
         {
             "id": "4d629b90-cfc2-4426-9eef-62b879efdb02",
             "title": "Asian TV",
             "logo": "https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c",
-            "url": "https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1771925587&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=29101ee6efec404d12f5ed06e739caaa",
+            "url": "https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1771930454&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a935c60fce7da79abd432713fe4f6be7",
             "category": "Bangla"
         },
         {
             "id": "d07563b0-7580-4cbd-a7c9-e67535c0164a",
             "title": "SA TV",
             "logo": "https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",
-            "url": "https://tvsen6.aynascope.net/satv/index.m3u8?e=1771925588&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b944746d169b4d1102dc9ab4069920f3",
+            "url": "https://tvsen6.aynascope.net/satv/index.m3u8?e=1771930455&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0935879e54eccc187ced435b45ca122f",
             "category": "Bangla"
         },
         {
             "id": "9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c",
             "title": "Duronto TV",
             "logo": "https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",
-            "url": "https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1771925589&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=961e283798b54a00efd7929f44726cef",
+            "url": "https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1771930456&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d64e917787aa908b25572aff5f94816d",
             "category": "Bangla"
         },
         {
             "id": "addb7014-1d2e-41d8-982d-7cafbdc48770",
             "title": "Bangla TV",
             "logo": "https://s3.aynaott.com/storage/e42ecfa90e3d6b15bdb7fea5ef673864",
-            "url": "https://tvsen6.aynascope.net/banglatv/index.m3u8?e=1771925589&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f79c8b142b090c70f0029937db306345",
+            "url": "https://tvsen6.aynascope.net/banglatv/index.m3u8?e=1771930457&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=713f37f9d176c4f005bf9ca210d372fd",
             "category": "Bangla"
         },
         {
             "id": "a0e6e9b6-b20b-4f54-82d6-881bef762cfd",
             "title": "BTV NATIONAL HD",
             "logo": "https://s3.aynaott.com/storage/9b6f35f73a099b7a5885a970523c5f78",
-            "url": "https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1771925590&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0e03de9a6d4133efb670d876713a0e0c",
+            "url": "https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1771930457&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2615022c33e528e6b0b542ccc6530f07",
             "category": "Bangla"
         },
         {
             "id": "a108c4e9-ccfa-42f2-8f8f-169ded28cca2",
             "title": "Ananda TV",
             "logo": "https://s3.aynaott.com/storage/897698f593fc07974fc46881a440733d",
-            "url": "https://tvsen6.aynascope.net/anandatv/index.m3u8?e=1771925591&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b0e57de389c2addd47bdcf2735c866ec",
+            "url": "https://tvsen6.aynascope.net/anandatv/index.m3u8?e=1771930458&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6f94775342f47e1def254e30b628cc5c",
             "category": "Bangla"
         },
         {
             "id": "c0480a4a-f066-4a20-9f7d-73bbd852260f",
             "title": "My TV",
             "logo": "https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac",
-            "url": "https://tvsen6.aynascope.net/mytv/index.m3u8?e=1771925592&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=78755d961210b5ae09e5c79517273f07",
+            "url": "https://tvsen6.aynascope.net/mytv/index.m3u8?e=1771930459&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=48f0589bff88ac9810674e041ffd8035",
             "category": "Bangla"
         },
         {
             "id": "0ac6af3d-acce-4d9d-9ce5-32d4b53f9326",
             "title": "Global TV",
             "logo": "https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44",
-            "url": "https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1771925592&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=adca7b13c71f61c9bfb730eb35f806af",
+            "url": "https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1771930459&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f59ffe279297162d39141f4f673f1486",
             "category": "Bangla"
         },
         {
             "id": "f7c89459-37bf-4129-904d-33b0a4c0d590",
             "title": "Bijoy TV",
             "logo": "https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87",
-            "url": "https://tvsen6.aynascope.net/bijoytv/index.m3u8?e=1771925593&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e284a9461a2aea8c38d8c7f531dfb7cd",
+            "url": "https://tvsen6.aynascope.net/bijoytv/index.m3u8?e=1771930460&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=febfaeb8ae8ed2dd180692aa93af5dde",
             "category": "Bangla"
         },
         {
             "id": "e64e1c11-1167-43a1-9e0f-995cbf6f7ff9",
             "title": "NEXUS TV",
             "logo": "https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0",
-            "url": "https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1771925594&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1a028967a1fd19c13b165f141a73740a",
+            "url": "https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1771930461&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c484aaa2101c669a595d9b79a0f61909",
             "category": "Bangla"
         },
         {
             "id": "6662e038-604e-4cdc-87f7-8ec1cdf77a5e",
             "title": "Mohona TV",
             "logo": "https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",
-            "url": "https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1771925594&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=57675dddff29bc3f83139474b358d752",
+            "url": "https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1771930461&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3e0f5c34bafefdd083cb81a650346b8e",
             "category": "Bangla"
         },
         {
@@ -212,7 +212,7 @@
             "id": "50e2fe7f-fa1d-40ee-b37d-c19a992ed97c",
             "title": "ABC News",
             "logo": "https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",
-            "url": "https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1771925596&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d70325e503af9194c9edffb5f7e0f83a",
+            "url": "https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1771930463&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1c7c694e466cc173cd12ca7bb9e5cce1",
             "category": "News"
         },
         {
@@ -226,14 +226,14 @@
             "id": "27ec4394-7640-4dab-abf8-6a48893dfdfe",
             "title": "Somoy News TV",
             "logo": "https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60",
-            "url": "https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1771925600&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=24dffe66ed81a83b2408b69849de2ad6",
+            "url": "https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1771930467&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=64c2aed4b43afdee880a194267abd6db",
             "category": "News"
         },
         {
             "id": "89247cb9-3c3e-465c-bbc7-d444b0d65424",
             "title": "Channel 24",
             "logo": "https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55",
-            "url": "https://tvsen6.aynascope.net/channel24/index.m3u8?e=1771925600&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cdf05bd1484de713be4e61aba140143c",
+            "url": "https://tvsen6.aynascope.net/channel24/index.m3u8?e=1771930468&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc28bb0d48a724e75393e19be88b8acc",
             "category": "News"
         },
         {
@@ -247,49 +247,49 @@
             "id": "22f28ae5-8c15-4904-b9f6-70bbd94cbc43",
             "title": "Independent TV",
             "logo": "https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697",
-            "url": "https://tvsen6.aynascope.net/independenttv/index.m3u8?e=1771925602&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4c435a83e52ed8a5d822de23c6e0ca3b",
+            "url": "https://tvsen6.aynascope.net/independenttv/index.m3u8?e=1771930469&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=919a3f986026ba60ab16afe9370f076c",
             "category": "News"
         },
         {
             "id": "0875f2c8-2043-499b-9472-2872412a6340",
             "title": "DBC News",
             "logo": "https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545",
-            "url": "https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1771925602&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d70f90375835a45a0959027d42cfd1d3",
+            "url": "https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1771930470&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dcafa60da1e521cac951ff1c86135abb",
             "category": "News"
         },
         {
             "id": "0579659b-2854-40d1-ad6a-69b70641ad17",
             "title": "Ekhon TV",
             "logo": "https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc",
-            "url": "https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1771925603&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d7167253ef2902fc319a3580770fe6bd",
+            "url": "https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1771930470&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ee70af779505f8d7b04ea96fc71f95fd",
             "category": "News"
         },
         {
             "id": "2b1a4340-2557-4d57-b77c-657bb30ce0c8",
             "title": "News 24 BD",
             "logo": "https://s3.aynaott.com/storage/7c002f22c02096b0d1ba833ae9ea6d5b",
-            "url": "https://tvsen6.aynascope.net/news24/index.m3u8?e=1771925604&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6e0f197c7d43f7a7892f0dd4ced570e6",
+            "url": "https://tvsen6.aynascope.net/news24/index.m3u8?e=1771930471&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6608c84624216505d474b8ea808840cc",
             "category": "News"
         },
         {
             "id": "1a7a1365-ae2c-470f-9fb2-25c6e83bb108",
             "title": "Ekattor TV",
             "logo": "https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7",
-            "url": "https://tvsen6.aynascope.net/ekattorbdtv/index.m3u8?e=1771925604&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f20d4ac0783a2fcc4cee7bf98f6e0d70",
+            "url": "https://tvsen6.aynascope.net/ekattorbdtv/index.m3u8?e=1771930472&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a75c1cbb6500e58c520b8f7a9b135ad4",
             "category": "News"
         },
         {
             "id": "8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa",
             "title": "Jamuna TV",
             "logo": "https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8",
-            "url": "https://tvsen6.aynascope.net/jamunatv/index.m3u8?e=1771925605&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=582f35b04757efe3d81a66220464b8be",
+            "url": "https://tvsen6.aynascope.net/jamunatv/index.m3u8?e=1771930472&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=16825cf05b0ebad049b672cc1465ac0e",
             "category": "News"
         },
         {
             "id": "2be13775-7176-4b90-98d7-04c90ffe3b5a",
             "title": "CNN",
             "logo": "https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",
-            "url": "https://tvsen6.aynascope.net/cnn/index.m3u8?e=1771925606&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b40f69060efe392d33af190aa6bfa267",
+            "url": "https://tvsen6.aynascope.net/cnn/index.m3u8?e=1771930473&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6543487e8a72f36014399d7330775d03",
             "category": "News"
         },
         {
@@ -310,7 +310,7 @@
             "id": "369ffecf-00a9-49a9-864d-a8f45c7ef6db",
             "title": "NHK World",
             "logo": "https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549",
-            "url": "https://tvsen6.aynascope.net/nhkworld/index.m3u8?e=1771925608&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e8409525d9e824dfdd13cd7ec9c08f3d",
+            "url": "https://tvsen6.aynascope.net/nhkworld/index.m3u8?e=1771930475&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7580f30f16ea7840ac425ae4c6dcfd27",
             "category": "News"
         },
         {
@@ -324,21 +324,21 @@
             "id": "2b78b6b0-5711-438d-b2ec-33313b1806f4",
             "title": "ANB News",
             "logo": "https://s3.aynaott.com/storage/4ec06dcab54cbbf5b204f797555e6b31",
-            "url": "https://tvsen6.aynascope.net/ANB_News/index.m3u8?e=1771925611&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0b872b33b5ef0c17d9cba8634234ee64",
+            "url": "https://tvsen6.aynascope.net/ANB_News/index.m3u8?e=1771930478&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=70d79253564fdcc493ce07c38d464fe1",
             "category": "News"
         },
         {
             "id": "a7a2ca97-da11-42fb-8310-db584907c81e",
             "title": "News 1 India",
             "logo": "https://s3.aynaott.com/storage/c643b3f7d7f79ad3913b5d2037f13a88",
-            "url": "https://tvsen6.aynascope.net/News1India/index.m3u8?e=1771925611&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e9ec21c0b63034370c01ce40a10edd5f",
+            "url": "https://tvsen6.aynascope.net/News1India/index.m3u8?e=1771930478&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=648abb89cbae9eb3b60e1bb6234d83fc",
             "category": "News"
         },
         {
             "id": "b358a9bf-6c73-4901-bde6-0250b67330bc",
             "title": "Sadhna Prime News",
             "logo": "https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e",
-            "url": "https://tvsen6.aynascope.net/SadhnaPrimeNews/index.m3u8?e=1771925612&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bb5121dfb2bda50b365dde22b974fc8f",
+            "url": "https://tvsen6.aynascope.net/SadhnaPrimeNews/index.m3u8?e=1771930479&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=186f62538af5a8edf212cd3ee053a79b",
             "category": "News"
         },
         {
@@ -359,21 +359,21 @@
             "id": "c3a6f6c5-1e55-4ad3-ba58-e80a271c8941",
             "title": "TV9 Bharatvarsh",
             "logo": "https://s3.aynaott.com/storage/b5ac48b419add1992d235f7adc884889",
-            "url": "https://tvsen7.aynascope.net/TV9Bharatvarsh/index.m3u8?e=1771925614&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0c83482fb293b57df5991e75f98a18d5",
+            "url": "https://tvsen7.aynascope.net/TV9Bharatvarsh/index.m3u8?e=1771930481&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c75d0477dc933429e1e6d452585939d3",
             "category": "News"
         },
         {
             "id": "aab9a12d-b5a5-4028-8c92-94ea9d302f4e",
             "title": "Sky News",
             "logo": "https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",
-            "url": "https://tvsen5.aynascope.net/skynews/index.m3u8?e=1771925615&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a6a7869ea25882ee0d5d1dd391a16725",
+            "url": "https://tvsen5.aynascope.net/skynews/index.m3u8?e=1771930482&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=739ebc04bbb922b439331f8d1bd9582a",
             "category": "News"
         },
         {
             "id": "963a3050-6e3b-4de0-a945-bf075677b685",
             "title": "Hindi Khabar",
             "logo": "https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",
-            "url": "https://tvsen7.aynascope.net/HindiKhabar/index.m3u8?e=1771925616&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=13ac61ee2f3ba7bdfd58fe4fdda9a709",
+            "url": "https://tvsen7.aynascope.net/HindiKhabar/index.m3u8?e=1771930483&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=03c1e2c9dfe84ca91f7e31e4a371e167",
             "category": "News"
         },
         {
@@ -387,14 +387,14 @@
             "id": "cc7357ac-f5cd-4824-ac68-5d26c56a5bbb",
             "title": "Bharat Samachar",
             "logo": "https://s3.aynaott.com/storage/d04287478c2aa26265b600174318992d",
-            "url": "https://tvsen7.aynascope.net/BharatSamachar/index.m3u8?e=1771925617&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c90a2b9fcabe8d5da7ccd53bfcc148af",
+            "url": "https://tvsen7.aynascope.net/BharatSamachar/index.m3u8?e=1771930484&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=163094cb0ef4ad04770ac780621193e3",
             "category": "News"
         },
         {
             "id": "058d18a5-18d8-47e3-bb7c-68320e4b39bf",
             "title": "Fox News",
             "logo": "https://s3.aynaott.com/storage/18fb4fcb519d5df8323e48c1d58f5ae7",
-            "url": "https://tvsen6.aynascope.net/foxnews/index.m3u8?e=1771925619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=17fe0fb9309a437c658f1192636389bb",
+            "url": "https://tvsen6.aynascope.net/foxnews/index.m3u8?e=1771930486&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e11509f38ec734ce4ab90329117554eb",
             "category": "News"
         },
         {
@@ -422,14 +422,14 @@
             "id": "fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
             "title": "T Sports HD",
             "logo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
-            "url": "https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1771925622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7c1905ca460cfaa5a8c1de15b49eb847",
+            "url": "https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1771930488&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=197b3a38f5628e06c724d1ccab45f3b5",
             "category": "Sports"
         },
         {
             "id": "eacf6c3f-0773-4bc3-a03a-cfee09f10348",
             "title": "PTV Sports",
             "logo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
-            "url": "https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1771925622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=07f7a54bc51eea36210cfda22802397c",
+            "url": "https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1771930489&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=80ee3ede0ff84d8c7bcdaffc4e3b530b",
             "category": "Sports"
         },
         {
@@ -443,14 +443,14 @@
             "id": "a3d48c46-7902-45e2-abf9-0fab60c4d117",
             "title": "A sports",
             "logo": "https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",
-            "url": "https://tvsen6.aynascope.net/asports/index.m3u8?e=1771925624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ea9febc1c9543924d071ff2c90b16ec6",
+            "url": "https://tvsen6.aynascope.net/asports/index.m3u8?e=1771930490&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a001e5084666e11d8f4ae4cc02015570",
             "category": "Sports"
         },
         {
             "id": "7747ecdd-ba30-4737-a600-54fdcdbcfebd",
             "title": "Cricket Gold",
             "logo": "https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",
-            "url": "https://tvsen6.aynascope.net/CricketGold/index.m3u8?e=1771925624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f9eee114ff480dcdbae45c8a54d60c49",
+            "url": "https://tvsen6.aynascope.net/CricketGold/index.m3u8?e=1771930491&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=704a304e8069a236c27806d1ac4c56a0",
             "category": "Sports"
         },
         {
@@ -485,7 +485,7 @@
             "id": "9954b40b-67df-4cd9-9303-e02d713ad0a0",
             "title": "Golf Channel",
             "logo": "https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",
-            "url": "https://tvsen6.aynascope.net/golfchannel/index.m3u8?e=1771925628&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=64fd3dcc2c75043f7b7c140b24a89c7e",
+            "url": "https://tvsen6.aynascope.net/golfchannel/index.m3u8?e=1771930495&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=23b66138de3ef5eb2940c92f2956312c",
             "category": "Sports"
         },
         {
@@ -499,14 +499,14 @@
             "id": "93c7e57d-e666-488a-aec9-a339a7e5eb74",
             "title": "Fox Sports 2",
             "logo": "https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5",
-            "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8?e=1771925629&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3f9d641f297532cf4812f93c6d7d6650",
+            "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8?e=1771930496&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=14d8913158035702bad592d33ffd1721",
             "category": "Sports"
         },
         {
             "id": "f064e069-8861-43d5-ac79-828b029a50a1",
             "title": "Star Sports 1 HD",
             "logo": "https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7",
-            "url": "https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1771925630&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ae8b677fa31453ab5064104f6b269301",
+            "url": "https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1771930497&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9af97b1edd5223126c170d7ff1df2a41",
             "category": "Sports"
         },
         {
@@ -520,21 +520,21 @@
             "id": "10bb1341-2aa8-4be2-8a25-76a75f5a3ee7",
             "title": "BT Sports 2",
             "logo": "https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a",
-            "url": "https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1771925632&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5ab63adefe35a1724d0d170f8df23376",
+            "url": "https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1771930499&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=54b0b10151686b24c2624d23e56e81d8",
             "category": "Sports"
         },
         {
             "id": "e263cd7f-45e9-4bc6-a350-bf968eb51b14",
             "title": "Espn",
             "logo": "https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",
-            "url": "https://tvsen5.aynascope.net/espn/index.m3u8?e=1771925632&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=03f5ad1f637da4c5dc7a558733564814",
+            "url": "https://tvsen5.aynascope.net/espn/index.m3u8?e=1771930499&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a8da8f254ac1de47c0cf027e855c9a1c",
             "category": "Sports"
         },
         {
             "id": "32d28b2c-aded-481d-833b-cee57cecfc93",
             "title": "TSN 2",
             "logo": "https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",
-            "url": "https://tvsen7.aynascope.net/tsn2/index.m3u8?e=1771925633&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7305101ff18cf6a4f3984d92218f2e3c",
+            "url": "https://tvsen7.aynascope.net/tsn2/index.m3u8?e=1771930500&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7080436293a7aeed35afc7a2adda3cc3",
             "category": "Sports"
         },
         {
@@ -548,7 +548,7 @@
             "id": "6e70514c-5f8e-483b-8c97-3c971b558a74",
             "title": "Talk Sport",
             "logo": "https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",
-            "url": "https://tvsen6.aynascope.net/talkSPORT/index.m3u8?e=1771925634&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5c76b98e8e8707fcfefc5f417c6af329",
+            "url": "https://tvsen6.aynascope.net/talkSPORT/index.m3u8?e=1771930501&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd0c768db840718992048daf50d485ce",
             "category": "Sports"
         },
         {
@@ -569,21 +569,21 @@
             "id": "d774d6a3-906e-42b4-b21a-9090b533a1b1",
             "title": "Marquee Sports Network",
             "logo": "https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",
-            "url": "https://tvsen6.aynascope.net/MarqueeSportsNetwork/index.m3u8?e=1771925637&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=779599dfa3879d9640d93aa53ba31124",
+            "url": "https://tvsen6.aynascope.net/MarqueeSportsNetwork/index.m3u8?e=1771930503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b02be0f26d5ce7e550aa8d6ec91cf768",
             "category": "Sports"
         },
         {
             "id": "594809c8-574e-46cf-a3e5-26e0bec1fe33",
             "title": "Star Sport Select 1",
             "logo": "https://s3.aynaott.com/storage/c96957383c33f1948e34fdcc07fbc29f",
-            "url": "https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1771925638&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=befe9c80071c60fec37bc1b305418a41",
+            "url": "https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1771930505&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=41a7df1b3a1372a4d502ad25f0c717c4",
             "category": "Sports"
         },
         {
             "id": "d49b0b2b-0132-4fd8-be49-88145477ee1d",
             "title": "Sports Grid",
             "logo": "https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",
-            "url": "https://tvsen6.aynascope.net/SportsGrid/index.m3u8?e=1771925639&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a20c61137f2d398826ae3c08a2425248",
+            "url": "https://tvsen6.aynascope.net/SportsGrid/index.m3u8?e=1771930505&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f4146d044943aeff10135b7cae6330e1",
             "category": "Sports"
         },
         {
@@ -597,7 +597,7 @@
             "id": "4ca61a59-e0e2-4566-94fb-055ef46dac9e",
             "title": "Bloomberg TV",
             "logo": "https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",
-            "url": "https://tvsen6.aynascope.net/bloombergtv/index.m3u8?e=1771925641&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4a9cf37d2fe1bc4a6efa2d3f599e6061",
+            "url": "https://tvsen6.aynascope.net/bloombergtv/index.m3u8?e=1771930508&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=086e14a7607bfd9c49d8e3ede6d821a7",
             "category": "Sports"
         },
         {
@@ -632,42 +632,42 @@
             "id": "abfabaee-3898-4279-8645-3da5b0232867",
             "title": "Willow HD TV",
             "logo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
-            "url": "https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1771925645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e2147351f2f47f95074f0149e463f3bf",
+            "url": "https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1771930511&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a816eb9d1c5fa54bea753020f509d22f",
             "category": "Sports"
         },
         {
             "id": "94069990-c00c-401a-af81-169ed39d1cb4",
             "title": "NFL Network",
             "logo": "https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b",
-            "url": "https://tvsen6.aynascope.net/nfl/index.m3u8?e=1771925645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6a3f0d634ebde821463831017afe686f",
+            "url": "https://tvsen6.aynascope.net/nfl/index.m3u8?e=1771930512&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b7414e3535eafabd6e440881e3d57e01",
             "category": "Sports"
         },
         {
             "id": "a57241fe-02b1-4a39-a602-84a57622be6c",
             "title": "BT Sport 1",
             "logo": "https://s3.aynaott.com/storage/d7e38c0cbe2627352888645f68cc857b",
-            "url": "https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1771925646&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f6ea8cce0390a4b706dce6c8166de76b",
+            "url": "https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1771930513&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=69613d0273e91779156bc652bc3bf45a",
             "category": "Sports"
         },
         {
             "id": "719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb",
             "title": "Fox Sports 1",
             "logo": "https://s3.aynaott.com/storage/04d612228fedede6da010e5b163d5ac6",
-            "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8?e=1771925647&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a4d864d271bb35d6ca17a1292c114e07",
+            "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8?e=1771930513&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c2c321da48d23a51d8d0861331d10784",
             "category": "Sports"
         },
         {
             "id": "576e5655-01d2-442f-b311-7c826d48fb7d",
             "title": "TSN 1",
             "logo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
-            "url": "https://tvsen7.aynascope.net/tsn1/index.m3u8?e=1771925647&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=63a3b1947d74ad0e14da15ace7e93e09",
+            "url": "https://tvsen7.aynascope.net/tsn1/index.m3u8?e=1771930514&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a56e501a8667a21c5877f8ceb2805850",
             "category": "Sports"
         },
         {
             "id": "9d3a1097-c171-4aee-99ad-e76c0c4a4c75",
             "title": "TSN 3",
             "logo": "https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7",
-            "url": "https://tvsen7.aynascope.net/tsn3/index.m3u8?e=1771925648&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=923cd68002bc71edcba58bc62d3a4b70",
+            "url": "https://tvsen7.aynascope.net/tsn3/index.m3u8?e=1771930515&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7bb7923c12f99de2742f6223cc3c94a1",
             "category": "Sports"
         },
         {
@@ -681,7 +681,7 @@
             "id": "71e96376-d08c-4314-b2d6-449ff40a90b0",
             "title": "Bahrain Sports 2",
             "logo": "https://s3.aynaott.com/storage/4429e88eac56b0c7c7274ce36db967d8",
-            "url": "https://tvsen6.aynascope.net/BahrainSports2/index.m3u8?e=1771925653&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d47e9b2d749cbf94af7ca26dc4638d8d",
+            "url": "https://tvsen6.aynascope.net/BahrainSports2/index.m3u8?e=1771930520&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=748c33252317442c91b314b118634fe4",
             "category": "Sports"
         },
         {
@@ -709,7 +709,7 @@
             "id": "3ac46078-2bf0-4998-a021-37b459e09fba",
             "title": "STAR SPORTS 2 HD",
             "logo": "https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8",
-            "url": "https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1771925656&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cb1f99f1f259d4c4c92ea5a636478947",
+            "url": "https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1771930523&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0f2897dcf0deee10df558aa4ac341f78",
             "category": "Sports"
         },
         {
@@ -772,7 +772,7 @@
             "id": "6f4426c7-e48d-4b57-9747-4e0af8cc0365",
             "title": "Tsport 7",
             "logo": "https://s3.aynaott.com/storage/a5b72812fcfb7bbe4fcdcd455824db7e",
-            "url": "https://tvsen6.aynascope.net/tsport7/index.m3u8?e=1771925678&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c605eeacb9ed489533c6ccaedb3072b9",
+            "url": "https://tvsen6.aynascope.net/tsport7/index.m3u8?e=1771930544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=15bf3f8ab4fc43e3488f1d815689076f",
             "category": "Sports"
         },
         {
@@ -786,7 +786,7 @@
             "id": "ed1ad924-f9f2-4302-97df-987bffb2b32e",
             "title": "Aakaash Bangla TV",
             "logo": "https://s3.aynaott.com/storage/04a8e0917184b617f74b85f98a8cf983",
-            "url": "https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1771925679&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=62495828c480360ea4099e2d0af16d2e",
+            "url": "https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1771930546&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=855ccc2fca79d4f39df78f9393ee47df",
             "category": "Channels"
         },
         {
@@ -800,14 +800,14 @@
             "id": "28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77",
             "title": "R Plus Gold",
             "logo": "https://s3.aynaott.com/storage/5a7f80e9417b452051a0e75db768e796",
-            "url": "https://tvsen6.aynascope.net/RplusGold/index.m3u8?e=1771925681&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=49323a297dc7dd83bcc8dbe85c5a6acf",
+            "url": "https://tvsen6.aynascope.net/RplusGold/index.m3u8?e=1771930547&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=80c59431de4220e4315c82948565e10e",
             "category": "Channels"
         },
         {
             "id": "3aa4d27d-91e1-4afe-a6b5-de35beefae4f",
             "title": "Rupshi Bangla",
             "logo": "https://s3.aynaott.com/storage/f4cdc5974a02f63c833146ad8856fb3b",
-            "url": "https://tvsen6.aynascope.net/RupshiBangla/index.m3u8?e=1771925681&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a9994eb8c79a3e4942579b6406fc62c5",
+            "url": "https://tvsen6.aynascope.net/RupshiBangla/index.m3u8?e=1771930548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a2e84ef3a634014371657b40b5f6c07e",
             "category": "Channels"
         },
         {
@@ -821,63 +821,63 @@
             "id": "c8080032-034e-4f04-b1ee-0847a6e62a41",
             "title": "News Time Bangla",
             "logo": "https://s3.aynaott.com/storage/b051fa53014fff26dabf744955969810",
-            "url": "https://tvsen6.aynascope.net/NewsTime/index.m3u8?e=1771925683&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=148300e704d307d7844d1f697e5ea1b0",
+            "url": "https://tvsen6.aynascope.net/NewsTime/index.m3u8?e=1771930549&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=02e830cd723bec2428ddc29cf258b225",
             "category": "Channels"
         },
         {
             "id": "7141c05b-97cd-4dd1-9584-423c7a5ce13d",
             "title": "Republic Bangla",
             "logo": "https://s3.aynaott.com/storage/18cb20e8e53eb27249c62d3aedf51241",
-            "url": "https://tvsen5.aynascope.net/R_Bangla/index.m3u8?e=1771925683&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=05f50c0af7d8f8955664bcba6eca7adb",
+            "url": "https://tvsen5.aynascope.net/R_Bangla/index.m3u8?e=1771930550&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6715b1d37de1ef34493e81757997f291",
             "category": "Channels"
         },
         {
             "id": "71b599fa-1284-46c3-a2de-9eaab38d74de",
             "title": "Zee 24 Ghanta",
             "logo": "https://s3.aynaott.com/storage/fea79ac5193dd9fb80aa1996f2adc1e2",
-            "url": "https://tvsen6.aynascope.net/zee24/index.m3u8?e=1771925685&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ef3cc284325b565d999e8213d387dca9",
+            "url": "https://tvsen6.aynascope.net/zee24/index.m3u8?e=1771930551&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=31911cee76775fb45748bd6d62af8a06",
             "category": "Channels"
         },
         {
             "id": "247cf723-3c1d-47bc-b765-64da2623a297",
             "title": "News India 24x7",
             "logo": "https://s3.aynaott.com/storage/b6d9c515205186e7f23afb0b1ccba232",
-            "url": "https://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8?e=1771925685&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bfbd491ab6d767c541ccc190672c8f79",
+            "url": "https://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8?e=1771930552&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9dcda48d0f86bd91d90f02fe2848626d",
             "category": "Channels"
         },
         {
             "id": "262789f8-92af-4738-986c-c5deafeef997",
             "title": "kolkata TV",
             "logo": "https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",
-            "url": "https://tvsen6.aynascope.net/kolkatatv/index.m3u8?e=1771925686&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ef6be62f1120a20c9bc85526f927c0db",
+            "url": "https://tvsen6.aynascope.net/kolkatatv/index.m3u8?e=1771930552&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8b4180f962ee29ad90cad2f50dfb4a43",
             "category": "Channels"
         },
         {
             "id": "140f1e47-362e-4fec-ba69-d766b6b03a32",
             "title": "NTV Europe",
             "logo": "https://s3.aynaott.com/storage/7526c6d25a1c213b413fe0647b956a8c",
-            "url": "https://tvsen7.aynascope.net/ntveurope/index.m3u8?e=1771925687&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d63c926d202b98eff0c27a307fbdb6fe",
+            "url": "https://tvsen7.aynascope.net/ntveurope/index.m3u8?e=1771930553&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ac39d0d777530f7598b4f632fad1cd50",
             "category": "Channels"
         },
         {
             "id": "50de5fa7-d6a7-48bf-9058-bd7aa1809e56",
             "title": "Millennium TV",
             "logo": "https://s3.aynaott.com/storage/b6cd78082093f534a90c9e3ba38149f2",
-            "url": "https://tvsen7.aynascope.net/millenniumtv/index.m3u8?e=1771925687&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b03a740967124ff8380941dd9f68ff0b",
+            "url": "https://tvsen7.aynascope.net/millenniumtv/index.m3u8?e=1771930554&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=65fa65b8073190f29090e0d54efb3590",
             "category": "Channels"
         },
         {
             "id": "d80aa15f-6487-40de-9bf7-04dd8203d5f4",
             "title": "Movie Bangla",
             "logo": "https://s3.aynaott.com/storage/a535fd3aae1f5dc79e9afa561cf28983",
-            "url": "https://tvsen7.aynascope.net/moviebangla/index.m3u8?e=1771925688&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e2d476d50dfb40e4c55f7c54f385a5dc",
+            "url": "https://tvsen7.aynascope.net/moviebangla/index.m3u8?e=1771930554&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e963b2f4c18021945e120d3bcd0961b6",
             "category": "Channels"
         },
         {
             "id": "5a6ca809-0fbd-44d5-bcf4-aeb4d4cbd849",
             "title": "Peace TV",
             "logo": "https://s3.aynaott.com/storage/cccbc9a19bb14504beacff550f47d014",
-            "url": "https://tvsen5.aynascope.net/peacetv/index.m3u8?e=1771925689&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2155502a4953a201297ce87922f320c3",
+            "url": "https://tvsen5.aynascope.net/peacetv/index.m3u8?e=1771930556&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fecc76b65aa288ae9f2734705f9cd747",
             "category": "Channels"
         },
         {
@@ -891,42 +891,42 @@
             "id": "7b8ecade-cb1a-485e-b270-d128197ec444",
             "title": "Discovery Science",
             "logo": "https://s3.aynaott.com/storage/530b47c088522c355a93788fd80fbb1b",
-            "url": "https://tvsen6.aynascope.net/discovery_science/index.m3u8?e=1771925691&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e6c1c0164800777bc700c6215f493693",
+            "url": "https://tvsen6.aynascope.net/discovery_science/index.m3u8?e=1771930557&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cfca2a380f783a9c857c415ce61ca42a",
             "category": "Channels"
         },
         {
             "id": "b04e24f1-9260-484c-ad3b-4f3f1058b5db",
             "title": "ASPARK TV",
             "logo": "https://s3.aynaott.com/storage/f59de29ce5a130a96023442694a2c58c",
-            "url": "https://tvsen6.aynascope.net/aspark/index.m3u8?e=1771925692&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=05be26d60fa6e562769479f4d52f355c",
+            "url": "https://tvsen6.aynascope.net/aspark/index.m3u8?e=1771930558&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f6de66f92b236849643285aa8328a5e0",
             "category": "Channels"
         },
         {
             "id": "a5963ff0-36c4-4a1f-b8ce-5356c890a859",
             "title": "pix 11",
             "logo": "https://s3.aynaott.com/storage/294b72dc2ca7b74ab3312059728cab22",
-            "url": "https://tvsen6.aynascope.net/pix11/index.m3u8?e=1771925692&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=929b82d4049f41378fadf51fa4099da0",
+            "url": "https://tvsen6.aynascope.net/pix11/index.m3u8?e=1771930558&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6940e0c040ef289bfdda9717bcc4abfb",
             "category": "Channels"
         },
         {
             "id": "a5e00efc-bb52-4e9f-9726-a256ffbf7397",
             "title": "AMC TV",
             "logo": "https://s3.aynaott.com/storage/5522b7ef736d7f4e7f80ac6325dce821",
-            "url": "https://tvsen6.aynascope.net/amc/index.m3u8?e=1771925693&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ce86ae2ad8b841e02efe6ff1eb52618d",
+            "url": "https://tvsen6.aynascope.net/amc/index.m3u8?e=1771930559&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=80fcb6b69bb8a7c408b79a1b69a3993e",
             "category": "Channels"
         },
         {
             "id": "2f6357b3-11db-4fc3-aa84-ad1d48ee8526",
             "title": "AXS",
             "logo": "https://s3.aynaott.com/storage/56d2c21362152b678998094f1c670dd5",
-            "url": "https://tvsen6.aynascope.net/axs/index.m3u8?e=1771925693&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9ea075952067c088bb34507fcec0a90e",
+            "url": "https://tvsen6.aynascope.net/axs/index.m3u8?e=1771930560&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8db70fe1e7fd0d41624599865e06d24f",
             "category": "Channels"
         },
         {
             "id": "7ba34de6-f932-440a-9fe4-190679a2d9a0",
             "title": "VTV USA",
             "logo": "https://s3.aynaott.com/storage/67ec5601a4ce880899953322b536a783",
-            "url": "https://tvsen7.aynascope.net/vtvusa/index.m3u8?e=1771925694&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=810bd7259146e6e6bd931ec08d07885f",
+            "url": "https://tvsen7.aynascope.net/vtvusa/index.m3u8?e=1771930561&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=89ae739758f7344860e8541ff721776a",
             "category": "Channels"
         },
         {
@@ -940,14 +940,14 @@
             "id": "54b59c45-9064-4ce6-b6cd-12895b34319d",
             "title": "Revolt",
             "logo": "https://s3.aynaott.com/storage/78bc841232179b088a10eb32564c6c49",
-            "url": "https://tvsen6.aynascope.net/revolt/index.m3u8?e=1771925697&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ad0c57fca5dec5b12eaa9b3ef8029632",
+            "url": "https://tvsen6.aynascope.net/revolt/index.m3u8?e=1771930563&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e9c64e1e927e6a3a46524cdaf6ecc685",
             "category": "Channels"
         },
         {
             "id": "59308a2b-4110-461e-a2b3-ab035527d5a8",
             "title": "Discovery HD",
             "logo": "https://s3.aynaott.com/storage/99526d9269f86250d6bb6cb625cd8275",
-            "url": "https://tvsen6.aynascope.net/discovery_hd/index.m3u8?e=1771925698&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6aaf64aa14ffe43ab8817f7985361f7c",
+            "url": "https://tvsen6.aynascope.net/discovery_hd/index.m3u8?e=1771930564&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d10aa2da61f7cb32124c7822c9a38e88",
             "category": "Channels"
         },
         {
@@ -1059,14 +1059,14 @@
             "id": "f6096a6f-9891-4bfc-98d8-ea20ea1388fe",
             "title": "Islam TV",
             "logo": "https://s3.aynaott.com/storage/5e74c3498e10b3cd2dadfe676681d387",
-            "url": "https://tvsen6.aynascope.net/islam/index.m3u8?e=1771925715&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2a3a60aaff08f8c064f53b2dfd9dd4ff",
+            "url": "https://tvsen6.aynascope.net/islam/index.m3u8?e=1771930580&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a2494ff7ffb14b41e2c020bfb6d13bb1",
             "category": "English"
         },
         {
             "id": "fc4dfffa-ceff-404f-bf3b-1de7c6771ae5",
             "title": "RDS Social TV",
             "logo": "https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",
-            "url": "https://tvsen6.aynascope.net/RDSSocialTV/index.m3u8?e=1771925716&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=960b6f524cee8ddd13263ccc3245ad0f",
+            "url": "https://tvsen6.aynascope.net/RDSSocialTV/index.m3u8?e=1771930582&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a79d55375ec33dab14336937d83659d8",
             "category": "English"
         },
         {
@@ -1080,49 +1080,49 @@
             "id": "1124edfa-0c73-4389-8c8c-988b8ae65460",
             "title": "HBO",
             "logo": "https://s3.aynaott.com/storage/4a1291716680b5c095d33e106337bb04",
-            "url": "https://tvsen5.aynascope.net/hbo/index.m3u8?e=1771925717&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=940e21392e9698f21f0b9571e955450c",
+            "url": "https://tvsen5.aynascope.net/hbo/index.m3u8?e=1771930583&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2716dfdbb886eb1abcd28cb5b01602d3",
             "category": "English"
         },
         {
             "id": "77aab6ef-59da-4e68-881f-b12ea01df543",
             "title": "History",
             "logo": "https://s3.aynaott.com/storage/72ea808c9221d980cb79623ce3c5e820",
-            "url": "https://tvsen5.aynascope.net/historyen/index.m3u8?e=1771925718&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=40898650d800ed4069364caf1164de77",
+            "url": "https://tvsen5.aynascope.net/historyen/index.m3u8?e=1771930584&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=47ec86fadd553e652e3692e51dc13e1a",
             "category": "English"
         },
         {
             "id": "8077a601-7b7f-4e58-88bd-7370c25d7001",
             "title": "CGTN Docu",
             "logo": "https://s3.aynaott.com/storage/319020b844885cbabcd34e3f2f84d283",
-            "url": "https://tvsen6.aynascope.net/cgtnDocumentary/index.m3u8?e=1771925718&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7dc38b51dfae3a201eb91c4d5ca0e010",
+            "url": "https://tvsen6.aynascope.net/cgtnDocumentary/index.m3u8?e=1771930584&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0cce8965dca556e61b3c4574ee6660a7",
             "category": "English"
         },
         {
             "id": "c106cb9b-69a2-4759-94b6-2822f5155488",
             "title": "Discovery Turbo",
             "logo": "https://s3.aynaott.com/storage/d3f1746d033e2c46deca83fd5e54b08b",
-            "url": "https://tvsen6.aynascope.net/discovery_turbo/index.m3u8?e=1771925719&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a86fa1ed8105504774af702d553412a6",
+            "url": "https://tvsen6.aynascope.net/discovery_turbo/index.m3u8?e=1771930585&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=37520bf941bdda7d381ebf5addcf6d21",
             "category": "English"
         },
         {
             "id": "6be81470-eb86-4df1-9726-a95396a293d0",
             "title": "Fox business",
             "logo": "https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",
-            "url": "https://tvsen6.aynascope.net/foxbusiness/index.m3u8?e=1771925720&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3db23b6891c95ae551f35bd6c56bf490",
+            "url": "https://tvsen6.aynascope.net/foxbusiness/index.m3u8?e=1771930586&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a0cef476ac0bcc134d848e53fc0b70e8",
             "category": "English"
         },
         {
             "id": "442d91ee-46f3-4dc7-bbde-05f6775e9e6f",
             "title": "Fox 5",
             "logo": "https://s3.aynaott.com/storage/4f6486854be670f7458ab60d0402ee42",
-            "url": "https://tvsen6.aynascope.net/fox5/index.m3u8?e=1771925721&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=791805177cfb8a9927516b3660ca3d11",
+            "url": "https://tvsen6.aynascope.net/fox5/index.m3u8?e=1771930586&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=44f10bd92f33115d3d651cb5ab83be19",
             "category": "English"
         },
         {
             "id": "6aa7469a-89a8-4c46-a141-90fe1fff7893",
             "title": "Discovery Family",
             "logo": "https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10",
-            "url": "https://tvsen5.aynascope.net/discoveryfamily/index.m3u8?e=1771925721&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=faa429d96558bf52a2737948777da7ca",
+            "url": "https://tvsen5.aynascope.net/discoveryfamily/index.m3u8?e=1771930587&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f56eca687c50dff271d9b878acdbf25e",
             "category": "English"
         },
         {
@@ -1136,161 +1136,161 @@
             "id": "edebdbdf-3290-42e7-8cda-cc8584cb1c32",
             "title": "BRAVO",
             "logo": "https://s3.aynaott.com/storage/7604a2c87620363fce86b73731b8035d",
-            "url": "https://tvsen7.aynascope.net/bravo/index.m3u8?e=1771925723&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8cd5a9026cf45b5d049a7b022f7f41a6",
+            "url": "https://tvsen7.aynascope.net/bravo/index.m3u8?e=1771930588&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c16d230f62c70cebd314b42ff7ec5834",
             "category": "English"
         },
         {
             "id": "26689f92-263e-417b-bdc3-fef8f7eb7fa5",
             "title": "COMEDY CENTRAL",
             "logo": "https://s3.aynaott.com/storage/211d55de947bdf03f5c18b7e30e0d98b",
-            "url": "https://tvsen7.aynascope.net/comedycentral/index.m3u8?e=1771925723&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a986e63a77e0ac64df90f3f46e4ed750",
+            "url": "https://tvsen7.aynascope.net/comedycentral/index.m3u8?e=1771930589&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8c2a1ae705c15f2ea218a1434afab855",
             "category": "English"
         },
         {
             "id": "f3b88c27-c0ed-4a0b-a5fd-05cd9ab80a01",
             "title": "COOKING TV",
             "logo": "https://s3.aynaott.com/storage/bf9792dc04cace6a25407b6304a35046",
-            "url": "https://tvsen7.aynascope.net/cooking/index.m3u8?e=1771925724&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7bf9593cc96e4b7262eb777b588ff383",
+            "url": "https://tvsen7.aynascope.net/cooking/index.m3u8?e=1771930590&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=40852f2014c38a869cbdc11bdcb8d687",
             "category": "English"
         },
         {
             "id": "5b8f4aa1-7073-45c2-8d3d-9309db02d2d7",
             "title": "EPIX TV",
             "logo": "https://s3.aynaott.com/storage/c0b0c986890a8c88c3566d93e18cada6",
-            "url": "https://tvsen7.aynascope.net/epix/index.m3u8?e=1771925725&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fc170888b25a55c99ab16259bef76f23",
+            "url": "https://tvsen7.aynascope.net/epix/index.m3u8?e=1771930590&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d4cfa1916d77453a2a0c7e454d1fa686",
             "category": "English"
         },
         {
             "id": "d4175eaa-ec06-43fc-a022-cfd5432e31b9",
             "title": "FX TV",
             "logo": "https://s3.aynaott.com/storage/f403cc315ca6269c5fcbf1875c95d329",
-            "url": "https://tvsen7.aynascope.net/fx/index.m3u8?e=1771925725&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d3e9a7f9baadb35d8913a3d388f2fa06",
+            "url": "https://tvsen7.aynascope.net/fx/index.m3u8?e=1771930591&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=96c2246aec948dfd6242ab3633d9ae12",
             "category": "English"
         },
         {
             "id": "98cbc702-3ebe-45bf-be48-0b5bd0957baf",
             "title": "Food Network",
             "logo": "https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac",
-            "url": "https://tvsen6.aynascope.net/foodnetwork/index.m3u8?e=1771925726&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=14ed08b20050e2e98afac9c5aa25a134",
+            "url": "https://tvsen6.aynascope.net/foodnetwork/index.m3u8?e=1771930592&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3f45273f5fb075972a19e55601c9c3c0",
             "category": "English"
         },
         {
             "id": "4804c4fb-4d32-4a91-88e2-fa6d0798f6a5",
             "title": "HBO 2",
             "logo": "https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba",
-            "url": "https://tvsen7.aynascope.net/hbo2/index.m3u8?e=1771925727&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=352e65674e7410ed1cc519b65941fad6",
+            "url": "https://tvsen7.aynascope.net/hbo2/index.m3u8?e=1771930593&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=39837df3bb7fcae76fa4390003fa95ce",
             "category": "English"
         },
         {
             "id": "472766de-e0af-4cf3-89b4-31390bbe0942",
             "title": "HGTV",
             "logo": "https://s3.aynaott.com/storage/be15ed692e22ad4b7dcb9d7251ce32a6",
-            "url": "https://tvsen7.aynascope.net/hgtv/index.m3u8?e=1771925727&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=198babdde41a6f22a7d2696b7a6d2504",
+            "url": "https://tvsen7.aynascope.net/hgtv/index.m3u8?e=1771930593&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4f73a3d015c11008e80a63129cd9424c",
             "category": "English"
         },
         {
             "id": "02deb7af-2139-41ec-96af-3f805a168021",
             "title": "LAFF TV",
             "logo": "https://s3.aynaott.com/storage/ac4e2fb2e4eccd7417e5cc5b5a733369",
-            "url": "https://tvsen7.aynascope.net/laff/index.m3u8?e=1771925728&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e93ddb734b68931b73d0385cb4654aba",
+            "url": "https://tvsen7.aynascope.net/laff/index.m3u8?e=1771930594&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aac2d51fa3c9ba692877274aa27a9955",
             "category": "English"
         },
         {
             "id": "393d86c3-5518-4f70-94f1-af2f388d9181",
             "title": "LIFE TIME",
             "logo": "https://s3.aynaott.com/storage/90258e6758834a12979d27097bee04a7",
-            "url": "https://tvsen7.aynascope.net/lifetime/index.m3u8?e=1771925729&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9f2cb3d7e819299328aeab663c9a3922",
+            "url": "https://tvsen7.aynascope.net/lifetime/index.m3u8?e=1771930595&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=acf194d486e479bb00d8bae48afdccab",
             "category": "English"
         },
         {
             "id": "f79543b0-41ab-433f-8bfc-53d6bba16399",
             "title": "Nat Geo TV",
             "logo": "https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b",
-            "url": "https://tvsen6.aynascope.net/natgeo/index.m3u8?e=1771925729&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3a174fb7ad6e219db0b4b4c8553b0f04",
+            "url": "https://tvsen6.aynascope.net/natgeo/index.m3u8?e=1771930595&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=35c16dffd8a78938485b7826444317c0",
             "category": "English"
         },
         {
             "id": "1426f66b-7413-4bab-91a9-af2ac5c15474",
             "title": "SKY CINEMA ANIMATION",
             "logo": "https://s3.aynaott.com/storage/a6d7d9729aafd5055bfd5356b6fa8eef",
-            "url": "https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1771925730&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=594e1515c7aa9e229bc2f6924f53960f",
+            "url": "https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1771930596&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6cd5611d00c01c99f8130004123a4375",
             "category": "English"
         },
         {
             "id": "979764c3-92a0-46d0-9408-a3d458fc761e",
             "title": "SYFY TV",
             "logo": "https://s3.aynaott.com/storage/addd5f3c52326489e02df9aa14bb4ea5",
-            "url": "https://tvsen7.aynascope.net/syfy/index.m3u8?e=1771925731&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4a7681b8e81e77874c64be7aa75355a5",
+            "url": "https://tvsen7.aynascope.net/syfy/index.m3u8?e=1771930597&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a1501ccd8c7ce250e17c02860d19b99c",
             "category": "English"
         },
         {
             "id": "63db4c23-d199-4be6-90a0-d46742c7d53e",
             "title": "TLC HD",
             "logo": "https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9",
-            "url": "https://tvsen6.aynascope.net/tlc_hd/index.m3u8?e=1771925731&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=735b809536422b6fd1e6e91c25fd4879",
+            "url": "https://tvsen6.aynascope.net/tlc_hd/index.m3u8?e=1771930597&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=585e852df601b6e7ed1b81793b456453",
             "category": "English"
         },
         {
             "id": "b32b87d2-828c-48e2-b32c-eec0ed92b1a5",
             "title": "Travel Channel",
             "logo": "https://s3.aynaott.com/storage/a7f87f1e71905ee14429ed26abd29b2a",
-            "url": "https://tvsen6.aynascope.net/travelxp/index.m3u8?e=1771925733&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0f723cfd39270bd5a6a3e89450cc5818",
+            "url": "https://tvsen6.aynascope.net/travelxp/index.m3u8?e=1771930599&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ac605eb2fd85bb4b357ceef541f5a99d",
             "category": "English"
         },
         {
             "id": "f7f53551-5bcf-4704-9652-18a8b70568ca",
             "title": "IBTV USA",
             "logo": "https://s3.aynaott.com/storage/1678abdbf203bb77af4bbf2905a3de59",
-            "url": "https://tvsen7.aynascope.net/ibtvusa/index.m3u8?e=1771925733&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7979e6c9852321f234b90639ee4d9c5f",
+            "url": "https://tvsen7.aynascope.net/ibtvusa/index.m3u8?e=1771930599&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9e0161e01e1ea662f73b67db88399cd3",
             "category": "English"
         },
         {
             "id": "acc7957a-b9c4-482a-8639-154bdd7eada1",
             "title": "WEATHER CHANNEL",
             "logo": "https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf",
-            "url": "https://tvsen6.aynascope.net/TheWeatherChannel/index.m3u8?e=1771925734&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8ddcd1288fb16078c1ff8fd2938f1273",
+            "url": "https://tvsen6.aynascope.net/TheWeatherChannel/index.m3u8?e=1771930600&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=baef75d9e7558fc2d9b1de5305e49140",
             "category": "English"
         },
         {
             "id": "eff32f41-b72d-456c-89e1-cf86a097202a",
             "title": "CNBC TV",
             "logo": "https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",
-            "url": "https://tvsen6.aynascope.net/cnbc/index.m3u8?e=1771925735&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=618e24feb8897462d8e9ddac3ab1082a",
+            "url": "https://tvsen6.aynascope.net/cnbc/index.m3u8?e=1771930601&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2dc0890bd7c2ff40e40f6d6fd12d6f8e",
             "category": "English"
         },
         {
             "id": "18a1811e-58b0-474a-9dde-00c3f6140749",
             "title": "CBS TV",
             "logo": "https://s3.aynaott.com/storage/41536a676b99c1996efbccd8f65df42b",
-            "url": "https://tvsen7.aynascope.net/cbs/index.m3u8?e=1771925735&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cf9a8c80de3fb7b5046e1ccfedc59bb2",
+            "url": "https://tvsen7.aynascope.net/cbs/index.m3u8?e=1771930601&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c685ffabf3775672273054ca05f70220",
             "category": "English"
         },
         {
             "id": "398702be-6ac4-4878-90bb-ada4a7d56d21",
             "title": "CP 24",
             "logo": "https://s3.aynaott.com/storage/9f391e512f41bec54b163b83667da453",
-            "url": "https://tvsen6.aynascope.net/cp24/index.m3u8?e=1771925736&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0ec012d07292bddd8905399a6bcb3f8c",
+            "url": "https://tvsen6.aynascope.net/cp24/index.m3u8?e=1771930602&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bbb3c82e035d9719b0764bb8d5acf795",
             "category": "English"
         },
         {
             "id": "b4584eb3-f1da-4f1c-ac26-f547598ec2ed",
             "title": "MTV",
             "logo": "https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653",
-            "url": "https://tvsen6.aynascope.net/mtv/index.m3u8?e=1771925737&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c17122a6fb716ea34b3eb0a1208a36c5",
+            "url": "https://tvsen6.aynascope.net/mtv/index.m3u8?e=1771930603&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e0620a6a3fbc8458d9d0dd55bfe451f4",
             "category": "English"
         },
         {
             "id": "f6f1a6ed-4629-4010-b50d-13fa4dd9a575",
             "title": "USA TV",
             "logo": "https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6",
-            "url": "https://tvsen6.aynascope.net/usa/index.m3u8?e=1771925738&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=80c5a8764634f4a8ba9aeb75f5454491",
+            "url": "https://tvsen6.aynascope.net/usa/index.m3u8?e=1771930604&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2d1b747608d428b862580e8106718806",
             "category": "English"
         },
         {
             "id": "df14a727-6c91-4c8f-ba9f-2ae527ce27dd",
             "title": "MSNBC News",
             "logo": "https://s3.aynaott.com/storage/9a9ca715640d3dc227a0a74750ab17f2",
-            "url": "https://tvsen6.aynascope.net/msnbc/index.m3u8?e=1771925738&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8e701bb921c599dd63625ba76c12aba3",
+            "url": "https://tvsen6.aynascope.net/msnbc/index.m3u8?e=1771930604&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=98beeaec82d0a51a751f114314894105",
             "category": "English"
         },
         {
@@ -1325,7 +1325,7 @@
             "id": "7ce49cae-2511-40ed-a687-3102c6e29872",
             "title": "B4U Hitz",
             "logo": "https://s3.aynaott.com/storage/cf6bf88febd62a03ae727788b3d52566",
-            "url": "https://tvsen5.aynascope.net/B4UHitz/index.m3u8?e=1771925744&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c42261713a05c545f1e2f8c6d47e8114",
+            "url": "https://tvsen5.aynascope.net/B4UHitz/index.m3u8?e=1771930610&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a4ecb31f279b8b14168fd9bf42c5cc4b",
             "category": "Hindi"
         },
         {
@@ -1339,7 +1339,7 @@
             "id": "c7f57cda-5a87-48c5-a758-4273db0864d2",
             "title": "Goldmines",
             "logo": "https://s3.aynaott.com/storage/9d0cda929d2a459842a85cce47442776",
-            "url": "https://tvsen6.aynascope.net/Goldmines/index.m3u8?e=1771925745&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fa67d750bccd15e4f981ea1879991607",
+            "url": "https://tvsen6.aynascope.net/Goldmines/index.m3u8?e=1771930611&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=de2dc2a4cd9036344f688b4bb49dfdd2",
             "category": "Hindi"
         },
         {
@@ -1353,7 +1353,7 @@
             "id": "1f8a84b3-8079-4c29-9e73-f219664e9d4d",
             "title": "Goldmines Movies",
             "logo": "https://s3.aynaott.com/storage/f8d9220406fa9ae79006914639f52e9b",
-            "url": "https://tvsen6.aynascope.net/GoldminesMovies/index.m3u8?e=1771925746&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bdadf71a5075661cf495bde53885bba9",
+            "url": "https://tvsen6.aynascope.net/GoldminesMovies/index.m3u8?e=1771930612&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ac8c33d5b1bf2624a347dec639eed2c2",
             "category": "Hindi"
         },
         {
@@ -1367,35 +1367,35 @@
             "id": "f7ef6919-d8e1-42da-8f34-ddd3364c27c1",
             "title": "Assam Talks",
             "logo": "https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",
-            "url": "https://tvsen7.aynascope.net/AssamTalks/index.m3u8?e=1771925748&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3eb2011821c34c6b7c3e8aaef3c8befe",
+            "url": "https://tvsen7.aynascope.net/AssamTalks/index.m3u8?e=1771930614&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3021a7e07bc2e850d44ba06c12d13d09",
             "category": "Hindi"
         },
         {
             "id": "f9f17a87-2cef-4639-9788-f26422ac7fbe",
             "title": "Taaza TV",
             "logo": "https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",
-            "url": "https://tvsen7.aynascope.net/TaazaTV/index.m3u8?e=1771925749&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8c3537f18690ce7e25ce87d647a0e426",
+            "url": "https://tvsen7.aynascope.net/TaazaTV/index.m3u8?e=1771930614&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2068657236fd4ec87916aee368203fb0",
             "category": "Hindi"
         },
         {
             "id": "31e02282-4cac-4747-ac93-bd74be3c78d5",
             "title": "Dangal 2",
             "logo": "https://s3.aynaott.com/storage/67b12df982bbb07b6a5af35d691dbb54",
-            "url": "https://tvsen6.aynascope.net/Dangal2/index.m3u8?e=1771925749&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b8dbd02265b5cf7ba6a38e6317bfac8",
+            "url": "https://tvsen6.aynascope.net/Dangal2/index.m3u8?e=1771930615&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3647e97d7b75bb572e772a46b26e87a2",
             "category": "Hindi"
         },
         {
             "id": "56217203-21d2-4ca8-af74-b5b037a6f7f0",
             "title": "Dangal",
             "logo": "https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",
-            "url": "https://tvsen6.aynascope.net/Dangal/index.m3u8?e=1771925750&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=af028adba5cef20bbbb2227846ccd461",
+            "url": "https://tvsen6.aynascope.net/Dangal/index.m3u8?e=1771930616&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=12d45b8c36e8271ff62e115305434030",
             "category": "Hindi"
         },
         {
             "id": "a787feb3-0d50-41ad-9d43-f2cc02fada70",
             "title": "TheQ",
             "logo": "https://s3.aynaott.com/storage/5e07d993dda4763f4c35125fb9734e72",
-            "url": "https://tvsen6.aynascope.net/TheQ/index.m3u8?e=1771925751&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bb9d36e7600a41aa4d4f8718e4a8bd9b",
+            "url": "https://tvsen6.aynascope.net/TheQ/index.m3u8?e=1771930616&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4d8ca787b297e0e9712eb544b743c4f6",
             "category": "Hindi"
         },
         {
@@ -1409,49 +1409,49 @@
             "id": "630b8f21-f5b8-4c05-b2c1-af8333d533c1",
             "title": "Dhamaal",
             "logo": "https://s3.aynaott.com/storage/fbc83a10908188b587aead1bde39a8b3",
-            "url": "https://tvsen6.aynascope.net/Dhamaal/index.m3u8?e=1771925752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=52907e8d172ef86a0f0e87298650d430",
+            "url": "https://tvsen6.aynascope.net/Dhamaal/index.m3u8?e=1771930618&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b36e50f40d7ce430691d8e3b44da06d2",
             "category": "Hindi"
         },
         {
             "id": "ff7cadd6-b13a-40af-9976-e92057e30a40",
             "title": "Dabangg",
             "logo": "https://s3.aynaott.com/storage/acfb4adc18020853437df064788dcbca",
-            "url": "https://tvsen6.aynascope.net/Dabangg/index.m3u8?e=1771925753&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b7979f18f0fb0876ec3832f6475eae55",
+            "url": "https://tvsen6.aynascope.net/Dabangg/index.m3u8?e=1771930618&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9d77f19f49e6db2cddd0648327e83ef9",
             "category": "Hindi"
         },
         {
             "id": "f35879ff-4b1e-46b7-b429-9a020a4a3242",
             "title": "Hi Dost",
             "logo": "https://s3.aynaott.com/storage/99cc4db2b1e5b2a259427660646f9684",
-            "url": "https://tvsen6.aynascope.net/HiDost/index.m3u8?e=1771925753&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f18b38c979a281cc2a12cd69f2bf4d81",
+            "url": "https://tvsen6.aynascope.net/HiDost/index.m3u8?e=1771930619&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f9db1897e6eeadb703135ae382d5e13d",
             "category": "Hindi"
         },
         {
             "id": "0fc15069-e437-4138-a1bd-f62aaa93773e",
             "title": "9x Jhakaas",
             "logo": "https://s3.aynaott.com/storage/7e67b75dd21f29985a544f21f8f5a8e0",
-            "url": "https://tvsen6.aynascope.net/9X_Jhakaas/index.m3u8?e=1771925754&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=547e0b7b55aa86694cb3b06436d80048",
+            "url": "https://tvsen6.aynascope.net/9X_Jhakaas/index.m3u8?e=1771930620&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a2312bdeff378b0ac6d1dfb0ce0f2910",
             "category": "Hindi"
         },
         {
             "id": "93d08244-7eb4-4294-80b5-43030f41ca9f",
             "title": "9XM",
             "logo": "https://s3.aynaott.com/storage/8fb5a75cdb00b465703c4952f4eaaac6",
-            "url": "https://tvsen6.aynascope.net/9xm/index.m3u8?e=1771925755&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=feed4354a2c4907e40223171437e32c3",
+            "url": "https://tvsen6.aynascope.net/9xm/index.m3u8?e=1771930621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=56f0582e7513131f4d19937c625d5863",
             "category": "Hindi"
         },
         {
             "id": "631ca0d6-474b-41ad-9ffc-24adc9931731",
             "title": "Manoranjan Movies",
             "logo": "https://s3.aynaott.com/storage/62a667c60e95b0d8e0a0c4d70275a7fc",
-            "url": "https://tvsen6.aynascope.net/ManoranjanMovies/index.m3u8?e=1771925755&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=91592e933a08517bfa587189b60317ec",
+            "url": "https://tvsen6.aynascope.net/ManoranjanMovies/index.m3u8?e=1771930621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=14f36e7cb84fade15949e18d6f8b4289",
             "category": "Hindi"
         },
         {
             "id": "a0ff33aa-aee8-4fe3-a391-42bbb7cbacec",
             "title": "Mastiii Music",
             "logo": "https://s3.aynaott.com/storage/ec0191729a03669fda8ba55c7ba1d4f2",
-            "url": "https://tvsen6.aynascope.net/mastimusic/index.m3u8?e=1771925756&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=67cf97e1dbd687e1614279a9f04815a5",
+            "url": "https://tvsen6.aynascope.net/mastimusic/index.m3u8?e=1771930622&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e13336bc2e567e98a781721cd3c9269e",
             "category": "Hindi"
         },
         {
@@ -1465,21 +1465,21 @@
             "id": "da617cc0-9209-434c-9156-0f9387182a3f",
             "title": "9x Jalwa",
             "logo": "https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869",
-            "url": "https://tvsen6.aynascope.net/9xjalwa/index.m3u8?e=1771925758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=104c1c4e24b9f94fed160d65686f0b09",
+            "url": "https://tvsen6.aynascope.net/9xjalwa/index.m3u8?e=1771930623&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a8d937e66bcd694184a407d2e499e334",
             "category": "Hindi"
         },
         {
             "id": "dbefbb0b-b2e0-4e34-8108-8852d53ee766",
             "title": "9X Tashan",
             "logo": "https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2",
-            "url": "https://tvsen6.aynascope.net/9X_Tashan/index.m3u8?e=1771925758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e9bd8feed66bb84d443e3034be0e901",
+            "url": "https://tvsen6.aynascope.net/9X_Tashan/index.m3u8?e=1771930624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1dbc9fde2a9399181e5000ca32e585e9",
             "category": "Hindi"
         },
         {
             "id": "353f1b20-3f65-4477-8251-6c3c58a3a12e",
             "title": "Dhinchaak",
             "logo": "https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",
-            "url": "https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1771925759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=510bfda964403c68d66869f364101e1e",
+            "url": "https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1771930625&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=15e29df0fb20854f1462943751cc29a1",
             "category": "Hindi"
         },
         {
@@ -1493,35 +1493,35 @@
             "id": "960d0db1-3409-49b7-87da-61fe83fa2d8b",
             "title": "Manoranjan TV",
             "logo": "https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc",
-            "url": "https://tvsen6.aynascope.net/ManoranjanTV/index.m3u8?e=1771925760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1074c3338960eb3ad41edb4bfe67ccd4",
+            "url": "https://tvsen6.aynascope.net/ManoranjanTV/index.m3u8?e=1771930626&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0dd7266fbc2434c9d200da8a0abf09e3",
             "category": "Hindi"
         },
         {
             "id": "30c01099-08c9-45d3-91b2-572ca4c173eb",
             "title": "Network 10",
             "logo": "https://s3.aynaott.com/storage/09e356a3181cc613cf5680619d50a5f5",
-            "url": "https://tvsen6.aynascope.net/Network10/index.m3u8?e=1771925761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=116a2786c4a00fe643211a28f5278d66",
+            "url": "https://tvsen6.aynascope.net/Network10/index.m3u8?e=1771930627&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5b7a3b6c887885a417862d15c0727ab8",
             "category": "Hindi"
         },
         {
             "id": "8377452f-fbc7-4780-8bd2-6db42ac285c0",
             "title": "Republic TV Bharat",
             "logo": "https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6",
-            "url": "https://tvsen6.aynascope.net/RepublicTVBharat/index.m3u8?e=1771925762&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c00f3fefd15c0df6218378aeaad75f3b",
+            "url": "https://tvsen6.aynascope.net/RepublicTVBharat/index.m3u8?e=1771930627&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5de6ee2c12b37dc325984c999ad6be42",
             "category": "Hindi"
         },
         {
             "id": "cca69f06-02d4-4b39-aad9-f24688b81d0d",
             "title": "Dhamaka Movies",
             "logo": "https://s3.aynaott.com/storage/d63eff8864579b144c097c549ec0470a",
-            "url": "https://tvsen7.aynascope.net/DhamakaMovies/index.m3u8?e=1771925764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=de1f52d810aa356fb86fe2a08e1ac9e2",
+            "url": "https://tvsen7.aynascope.net/DhamakaMovies/index.m3u8?e=1771930630&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7280346de916ac67923b1581965701a9",
             "category": "Hindi"
         },
         {
             "id": "0b0235db-e5b4-48d9-95bc-30a7e3228947",
             "title": "Sony TV HD",
             "logo": "https://s3.aynaott.com/storage/2d12bf4f5dad8918427df0162d0e1184",
-            "url": "https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1771925764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0e28a0c74bfd1a1a349578594ffd7cda",
+            "url": "https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1771930630&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=03b935cc4f1ca76289d6c74e518a010e",
             "category": "Hindi"
         },
         {
@@ -1535,7 +1535,7 @@
             "id": "cd847504-8ebf-43ad-8beb-b53d80befb4b",
             "title": "& Pictures",
             "logo": "https://s3.aynaott.com/storage/c79b782d70458866537715e5ac842123",
-            "url": "https://tvsen6.aynascope.net/andpictureshd/index.m3u8?e=1771925775&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e99795f2d567e78b324e999750e3718a",
+            "url": "https://tvsen6.aynascope.net/andpictureshd/index.m3u8?e=1771930640&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a27e68b6e1178167729d1d2cc5d6bdd5",
             "category": "Hindi"
         },
         {
@@ -1563,14 +1563,14 @@
             "id": "890a1a92-0602-4c2d-93ca-a2c43e7aec54",
             "title": "Zee Bangla International",
             "logo": "https://s3.aynaott.com/storage/0cb865748deefd42e69fd9a221cf38ee",
-            "url": "https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1771925780&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=87a51bc4b7d058cbd5079e45fc7f067c",
+            "url": "https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1771930645&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d899e8401c017b4c60d2b035ac75fc4e",
             "category": "Indian Bangla"
         },
         {
             "id": "ff14d64f-0fcb-45af-8313-9ae3ff788052",
             "title": "Zee Bangla Cinema",
             "logo": "https://s3.aynaott.com/storage/7fc825467116fd9653dc0495c0532e01",
-            "url": "https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1771925780&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=84509b7564761248083c517abf7886ed",
+            "url": "https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1771930646&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bd18018a50af98315bff8b9b98613eb4",
             "category": "Indian Bangla"
         },
         {
@@ -1591,35 +1591,35 @@
             "id": "e73ffada-f80a-4c23-9bd8-76142e41c389",
             "title": "Cartoon Network",
             "logo": "https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",
-            "url": "https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1771925783&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5c3f1e565ba9c11924e6741816670834",
+            "url": "https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1771930648&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0a16c4a4da43715d870ba7ac4195d4e8",
             "category": "Kids"
         },
         {
             "id": "a9791899-66f2-4b94-9521-c333498f7ab9",
             "title": "Disney JR",
             "logo": "https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6",
-            "url": "https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1771925784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=90d1be26bcbb8282ab1a49d20a48fec1",
+            "url": "https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1771930650&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d39b6d8c17a86ed053ca96dd531e36fa",
             "category": "Kids"
         },
         {
             "id": "3830c379-539b-4e18-9943-9664574c850b",
             "title": "Nicktoons",
             "logo": "https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e",
-            "url": "https://tvsen5.aynascope.net/nicktoons/index.m3u8?e=1771925785&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f1cc0c33837441a38a5fc63d5ca3da8a",
+            "url": "https://tvsen5.aynascope.net/nicktoons/index.m3u8?e=1771930650&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=60c7f78d6632313641e2c5d2eac10c92",
             "category": "Kids"
         },
         {
             "id": "c197b1bc-8909-4176-a50f-f855a4a51c1f",
             "title": "Nickjr",
             "logo": "https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e",
-            "url": "https://tvsen5.aynascope.net/nickjr/index.m3u8?e=1771925786&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1a88940215c22e345ea8058eb2ab735f",
+            "url": "https://tvsen5.aynascope.net/nickjr/index.m3u8?e=1771930651&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=778dcb435575e75b18177e52a87078a7",
             "category": "Kids"
         },
         {
             "id": "8a87e892-cbf1-4361-8d46-06cce682c902",
             "title": "3ABN Kids",
             "logo": "https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",
-            "url": "https://tvsen6.aynascope.net/3abnkids/index.m3u8?e=1771925786&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=236c35030bfd84b712292c290b80ea9b",
+            "url": "https://tvsen6.aynascope.net/3abnkids/index.m3u8?e=1771930652&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3f8de5aa8ffba28fc5682a29a4157fda",
             "category": "Kids"
         },
         {
@@ -1633,7 +1633,7 @@
             "id": "a36167ba-c4a4-422a-91c6-594228b8cae4",
             "title": "Forever Kids",
             "logo": "https://s3.aynaott.com/storage/61c87bda9e538dd52b3ef654e85a11ff",
-            "url": "https://tvsen6.aynascope.net/ForeverKids/index.m3u8?e=1771925788&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ac87bddbbb30f675c2df6aeb5e9c49c9",
+            "url": "https://tvsen6.aynascope.net/ForeverKids/index.m3u8?e=1771930653&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=516fd026f685e5b0b9077c4598cc23f2",
             "category": "Kids"
         },
         {
@@ -1647,63 +1647,63 @@
             "id": "d8909fcb-c413-48f5-b31b-54cbee95dd4e",
             "title": "M NET Kids",
             "logo": "https://s3.aynaott.com/storage/45d94f96cdc5a444bc4969af940fe294",
-            "url": "https://tvsen6.aynascope.net/MNetKids/index.m3u8?e=1771925790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b377f946e18485a724788cc2471bfa74",
+            "url": "https://tvsen6.aynascope.net/MNetKids/index.m3u8?e=1771930655&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d23ebd2904e44083a6f7fffeb88f6bdf",
             "category": "Kids"
         },
         {
             "id": "240c79af-7625-4384-9052-88dd73134ea1",
             "title": "Moonbug Kids",
             "logo": "https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",
-            "url": "https://tvsen6.aynascope.net/MoonbugKids/index.m3u8?e=1771925791&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eafb9d381666085589d357b6cf0a5bd5",
+            "url": "https://tvsen6.aynascope.net/MoonbugKids/index.m3u8?e=1771930656&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ab277b19ced786b42b89903656189ab7",
             "category": "Kids"
         },
         {
             "id": "581cac8b-5962-4686-adb7-cb15e4624020",
             "title": "TVC Arabic Kids",
             "logo": "https://s3.aynaott.com/storage/91efc1ae410c11ccc4ab07f7221f0dad",
-            "url": "https://tvsen6.aynascope.net/TVCArabicKids/index.m3u8?e=1771925792&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=703d3189c1f8d1a5938df3f2d0767d29",
+            "url": "https://tvsen6.aynascope.net/TVCArabicKids/index.m3u8?e=1771930657&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fe2b871c853f66f50d41379fcef806bf",
             "category": "Kids"
         },
         {
             "id": "1d7ad29d-ee4d-4590-a446-7db6d6aea230",
             "title": "Disney Channel",
             "logo": "https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1",
-            "url": "https://tvsen7.aynascope.net/disney/index.m3u8?e=1771925793&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3aaadae366e7c0c41947819fa483193d",
+            "url": "https://tvsen7.aynascope.net/disney/index.m3u8?e=1771930658&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=82b6de8094a731fb8452e2245950603f",
             "category": "Kids"
         },
         {
             "id": "1f6fd722-dea2-4463-8938-81e6bdc94189",
             "title": "Disney XD",
             "logo": "https://s3.aynaott.com/storage/f9b945284524683f1de8beb07ded8989",
-            "url": "https://tvsen5.aynascope.net/disneyxd/index.m3u8?e=1771925793&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ca55d4d9fa1192cb0618a9d8be1965c5",
+            "url": "https://tvsen5.aynascope.net/disneyxd/index.m3u8?e=1771930659&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b5111b0c7fd2f03e54d546278ddb0d31",
             "category": "Kids"
         },
         {
             "id": "d188a20a-8640-4511-a228-3a141c675629",
             "title": "Family JR",
             "logo": "https://s3.aynaott.com/storage/ca9edd253c97a2c67fcd856f43a31702",
-            "url": "https://tvsen5.aynascope.net/familyjr/index.m3u8?e=1771925794&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cce0f98d239952825454346564916381",
+            "url": "https://tvsen5.aynascope.net/familyjr/index.m3u8?e=1771930659&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=da6025137a7a2ec8026bb66e43a5ce46",
             "category": "Kids"
         },
         {
             "id": "d8c19a31-9752-40cd-a392-fb95928a66b8",
             "title": "Nickelodeon",
             "logo": "https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541",
-            "url": "https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1771925795&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b94d4300c2af5f6ee3a0f76394df19df",
+            "url": "https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1771930660&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b0739cf7a0d5aefa66b76d5c570a6718",
             "category": "Kids"
         },
         {
             "id": "319225e9-8bd9-4848-a93b-fd5737809b0c",
             "title": "Teen Nick",
             "logo": "https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be",
-            "url": "https://tvsen7.aynascope.net/teennick/index.m3u8?e=1771925796&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=04dd92d06cd4b02a905f5de421b1fc3c",
+            "url": "https://tvsen7.aynascope.net/teennick/index.m3u8?e=1771930661&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=82c951be7680bb95f9617024a428e0f5",
             "category": "Kids"
         },
         {
             "id": "7c972a23-cee8-47f0-b61a-ac15d57002e4",
             "title": "YTV",
             "logo": "https://s3.aynaott.com/storage/d79d89851faee0823a1f2bed1a96e84d",
-            "url": "https://tvsen6.aynascope.net/ytv/index.m3u8?e=1771925797&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7d5990508e5b255ca41b00ff3cf378bc",
+            "url": "https://tvsen6.aynascope.net/ytv/index.m3u8?e=1771930662&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=642578f503b0349bc686d0a4a62d58cb",
             "category": "Kids"
         },
         {
@@ -1745,28 +1745,28 @@
             "id": "11b82c1f-aeeb-45b3-85b0-0a753604a2bd",
             "title": "Al-Zahar TV Turkic",
             "logo": "https://s3.aynaott.com/storage/30a09b00515134c1fb1af96892a878a2",
-            "url": "https://tvsen6.aynascope.net/AlZaharTVTurkic/index.m3u8?e=1771925802&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ddc4100f88c778b22fe29613b2a276a5",
+            "url": "https://tvsen6.aynascope.net/AlZaharTVTurkic/index.m3u8?e=1771930667&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0e904d145746248b6112f6d439fc4935",
             "category": "Religious"
         },
         {
             "id": "b0684b5d-0e56-4429-8f64-55d8c18fcc1c",
             "title": "Iqra Bangla",
             "logo": "https://s3.aynaott.com/storage/eb1964ab22fe95d4012c46198ffcf4c3",
-            "url": "https://tvsen5.aynascope.net/iqrabangla/index.m3u8?e=1771925803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=64b3322bf63a49a7d691809ae583c2cc",
+            "url": "https://tvsen5.aynascope.net/iqrabangla/index.m3u8?e=1771930667&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=897351c1a29047f1bb71a43aaad6edf2",
             "category": "Religious"
         },
         {
             "id": "2eb119c5-7864-421a-a153-8d6b7b372e9b",
             "title": "TV ONE",
             "logo": "https://s3.aynaott.com/storage/9c1532f532f291a6b5d6d9b5faf041ce",
-            "url": "https://tvsen5.aynascope.net/tvone/index.m3u8?e=1771925803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bd0ac45dc58b447c39432c52e52f54cb",
+            "url": "https://tvsen5.aynascope.net/tvone/index.m3u8?e=1771930668&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3d9eba0fa4f3724475e49f4bc6d2ba38",
             "category": "Religious"
         },
         {
             "id": "dd837351-ae92-4ce1-b5d4-1ceece83accf",
             "title": "Peace TV Urdu HD",
             "logo": "https://s3.aynaott.com/storage/5442b2655aca6398b26ba539f396565a",
-            "url": "https://tvsen6.aynascope.net/PeaceTVUrduHD/index.m3u8?e=1771925804&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c14f723a7dba40b2807601afabbff2db",
+            "url": "https://tvsen6.aynascope.net/PeaceTVUrduHD/index.m3u8?e=1771930669&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=257af72c3b6d483b26e7d67a73a7fa7d",
             "category": "Religious"
         },
         {
@@ -1780,28 +1780,28 @@
             "id": "72e3bc27-72a7-4c93-8953-66218fa7c51d",
             "title": "Deen TV",
             "logo": "https://s3.aynaott.com/storage/66ac3ae1e56001353b69bb5f63ebcc6e",
-            "url": "https://tvsen7.aynascope.net/deen/index.m3u8?e=1771925805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=188ae79b2a4649f6f6b6242dd0ebfb45",
+            "url": "https://tvsen7.aynascope.net/deen/index.m3u8?e=1771930670&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5c56187c72e65d05f1b5c22b42d88d9f",
             "category": "Religious"
         },
         {
             "id": "9feb93f4-0ffa-4877-b619-0870644562c4",
             "title": "Eman Channel",
             "logo": "https://s3.aynaott.com/storage/09d759c7bb93fa3fb76014c8936201ce",
-            "url": "https://tvsen6.aynascope.net/eman/index.m3u8?e=1771925806&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=41f1a07e1202b724d063689c00274753",
+            "url": "https://tvsen6.aynascope.net/eman/index.m3u8?e=1771930671&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6221e5e5c6ed8c7d31ad48639dccd8e7",
             "category": "Religious"
         },
         {
             "id": "8846b2aa-7f7f-4d5e-965e-42bed0fdf092",
             "title": "TAQBEER",
             "logo": "https://s3.aynaott.com/storage/5b8848e0ec2d5cd133fadef42317dec5",
-            "url": "https://tvsen7.aynascope.net/takbeer/index.m3u8?e=1771925808&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=97670389970fde95e98dd17bb517b792",
+            "url": "https://tvsen7.aynascope.net/takbeer/index.m3u8?e=1771930673&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2a46083d4ba4341cb8270e007fe2962b",
             "category": "Religious"
         },
         {
             "id": "32acaaeb-2b3b-4979-98d9-b45deecde3ec",
             "title": "MADANI TV",
             "logo": "https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",
-            "url": "https://tvsen7.aynascope.net/MadaniTV/index.m3u8?e=1771925809&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fb0f9effff6ef32112d8750f4e34a7f4",
+            "url": "https://tvsen7.aynascope.net/MadaniTV/index.m3u8?e=1771930673&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=52dd2530977584846fa7139c8461476a",
             "category": "Religious"
         },
         {
@@ -1857,14 +1857,14 @@
             "id": "525df3f4-ce22-4008-be5d-e25410fd7248",
             "title": "Dream Turk",
             "logo": "https://s3.aynaott.com/storage/1767a29ab2a18975e84cc9aee178681d",
-            "url": "https://tvsen6.aynascope.net/DreamTurk/index.m3u8?e=1771925816&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b3d7a0004fdbf691efdb3166432a6579",
+            "url": "https://tvsen6.aynascope.net/DreamTurk/index.m3u8?e=1771930680&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9f3bd34a5ae11c7b1507935d6e3eaee2",
             "category": "Music"
         },
         {
             "id": "9cf16121-07d4-48c1-9f36-14ee8b7e3f31",
             "title": "Ekin Turk",
             "logo": "https://s3.aynaott.com/storage/4aabe2bad793305adec08094f30af6b7",
-            "url": "https://tvsen6.aynascope.net/EkinTurk/index.m3u8?e=1771925817&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e88307854561241b196361e49f55edc4",
+            "url": "https://tvsen6.aynascope.net/EkinTurk/index.m3u8?e=1771930681&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cd7ce493a61552eb8a9283bd6dd01efc",
             "category": "Music"
         },
         {
@@ -1878,7 +1878,7 @@
             "id": "67d12ffa-059f-4d79-a4e5-b36104d0af06",
             "title": "Dhoom Music Bangla",
             "logo": "https://s3.aynaott.com/storage/370815c239b8b274264792c6da50a639",
-            "url": "https://tvsen6.aynascope.net/dhoom/index.m3u8?e=1771925818&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2c42d604b1410896c4d85f51b85f0ac6",
+            "url": "https://tvsen6.aynascope.net/dhoom/index.m3u8?e=1771930683&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7445cabc1dc7009fe0be21aa74afd495",
             "category": "Music"
         },
         {
@@ -1899,14 +1899,14 @@
             "id": "f07177e9-d1a9-48b4-8e2e-1718d098bbfb",
             "title": "Star Jalsha HD",
             "logo": "https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515",
-            "url": "https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1771925822&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2cbd39d0a93f19da02c3f4f6967e24d2",
+            "url": "https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1771930686&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=92c95ce7733febad02467f3bec7bcbc0",
             "category": "Star Channels"
         },
         {
             "id": "74524e79-5f3a-4824-8202-b9e346acb9a4",
             "title": "Star Plus HD",
             "logo": "https://s3.aynaott.com/storage/cb91d6750648d5fd4a51c7cb6ff9eeed",
-            "url": "https://tvsen7.aynascope.net/sphdbd/index.m3u8?e=1771925823&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2ce678add4277dd8eab9405d86d49b5e",
+            "url": "https://tvsen7.aynascope.net/sphdbd/index.m3u8?e=1771930687&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=40d05ee0a226788aaa47c5ba9c35db19",
             "category": "Star Channels"
         }
     ]
