@@ -26,12 +26,23 @@
 </p>
 
 
-
-
-
 <h1 align="center">
  <a href="www.aynaott.com"><img src="https://github.com/sm-monirulislam/AynaOTT-auto-update-playlist/blob/main/image/aynaott_banner.jpeg"></a>
 </h1>
+
+
+# 📕Introdicton 
+* [AynaoOTT](https://play.google.com/store/apps/details?id=com.aynaott.apps) is the number 1 paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
+
+
+# 🛡️Key Features
+
+* All The Channel HLS Links and PlayList Are Updated Every 8 hours 
+* Premium Channels Are Also Working
+* World Wide working 
+* No Needs Any Subscription 
+* In JSON Format
+* You Can Easily Use This on a Website or in an App for Restreaming TV Channels 
 
 # 🎬How To Play
 **📱Android**
