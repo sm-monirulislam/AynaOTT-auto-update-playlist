@@ -8,7 +8,7 @@
 
 
 
-<h2 align="center">A Script to trigger the GitHub Actions every 1 houre to update the AynaOTT App Channels Link and Cookie </h2>
+<h2 align="center">A Script to trigger the GitHub Actions every 1 hours to update the AynaOTT App Channels Link and Cookie </h2>
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -32,18 +32,17 @@
 
 
 # 📕Introdicton 
-* [AynaoOTT](https://play.google.com/store/apps/details?id=com.aynaott.apps) is the number 1 paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
+* [AynaoOTT](https://play.google.com/store/apps/details?id=com.aynaott.apps) is the number One paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
 
 
 # 🛡️Key Features
 
-* All The Channel HLS Links and PlayList Are Updated Every 8 hours 
+* All The Channel HLS Links and PlayList Are Updated Every 1 hours 
 * Premium Channels Are Also Working
 * World Wide working 
 * No Needs Any Subscription 
 * In JSON Format
-* You Can Easily Use This on a Website or in an App for Restreaming TV Channels 
-
+* 
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
