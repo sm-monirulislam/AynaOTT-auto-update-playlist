@@ -42,7 +42,7 @@
 * World Wide working 
 * No Needs Any Subscription 
 * In JSON Format
-* 
+
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
