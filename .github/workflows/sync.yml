@@ -20,3 +20,5 @@ jobs:
           owner: sm-monirulislam
           repo: AynaOTT-auto-update-playlist
           token: ${{ secrets.GITHUB_TOKEN }}
+          head: main
+          base: main
