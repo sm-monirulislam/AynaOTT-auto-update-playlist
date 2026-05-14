@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -14,10 +17,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Sync upstream
-        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        uses: tgymnich/fork-sync@v1.8
 
         with:
-          upstream_sync_repo: sm-monirulislam/AynaOTT-auto-update-playlist
-          upstream_sync_branch: main
-          target_sync_branch: main
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          upstream_repository: sm-monirulislam/AynaOTT-auto-update-playlist
+          target_branch: main
