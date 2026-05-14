@@ -7,19 +7,16 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Sync upstream
         uses: tgymnich/fork-sync@v1.8
-
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          upstream_repository: sm-monirulislam/AynaOTT-auto-update-playlist
-          target_branch: main
+          owner: sm-monirulislam
+          repo: AynaOTT-auto-update-playlist
+          token: ${{ secrets.GITHUB_TOKEN }}
