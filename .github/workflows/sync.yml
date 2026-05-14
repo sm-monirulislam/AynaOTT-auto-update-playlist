@@ -20,6 +20,6 @@ jobs:
         uses: tgymnich/fork-sync@v1.8
 
         with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           upstream_repository: sm-monirulislam/AynaOTT-auto-update-playlist
           target_branch: main
