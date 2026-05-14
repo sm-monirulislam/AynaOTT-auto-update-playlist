@@ -1,10 +1,10 @@
-name: Sync Fork Auto
+name: Ayna Auto update
 
 on:
-  workflow_call:
-  workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 * * * *'
+
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,7 +17,6 @@ jobs:
     steps:
       - name: Sync upstream
         uses: tgymnich/fork-sync@v1.8
-
         with:
           owner: sm-monirulislam
           repo: AynaOTT-auto-update-playlist
