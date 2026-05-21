@@ -8,7 +8,7 @@
 
 
 
-<h2 align="center">A Script to trigger the GitHub Actions every 1 hours to update the AynaOTT App Channels Link and Cookie </h2>
+<h2 align="center">A Script to trigger the GitHub Actions every 30 minute to update the AynaOTT App Channels Link and Cookie </h2>
 
 <p align="center">
   <a href="https://www.python.org/">
