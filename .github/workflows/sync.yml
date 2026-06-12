@@ -1,0 +1,25 @@
+name: Ayna Auto update
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Sync upstream
+        uses: tgymnich/fork-sync@v1.8
+        with:
+          owner: sm-monirulislam
+          repo: AynaOTT-auto-update-playlist
+          token: ${{ secrets.GITHUB_TOKEN }}
+          head: main
+          base: main
